@@ -2,17 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080f,50:0d0f1e,100:12152a&height=200&section=header&text=HUDSON%20LAB&fontSize=42&fontColor=a78bfa&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%C2%B7%20SYSTEMS%20%C2%B7%20APU%202024&descSize=13&descAlignY=58&descColor=38bdf8" />
 </p>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Data+Explorer+%26+Analyst;Systems+Programmer;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+SAS;Building+Efficient+Solutions;Open+to+Internships+%C2%B7+Malaysia;Multilingual+%C2%B7+EN+%C2%B7+BM+%C2%B7+ZH+%C2%B7+%E7%B2%A4" alt="Typing SVG" />
 </p>
-
 ---
-
 <!-- WHO AM I — HOLOGRAPHIC ID CARD -->
-## 🪪 WHO AM I
-
+🪪 WHO AM I
 <table>
   <tr>
     <td width="120" align="center" valign="top">
@@ -38,14 +34,10 @@
     </td>
   </tr>
 </table>
-
 ---
-
 <!-- TECH ARSENAL -->
-## ⚡ TECH ARSENAL
-
-**Languages**
-
+⚡ TECH ARSENAL
+Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Python.png" width="45" title="Python"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Java.png" width="45" title="Java"/>
@@ -56,25 +48,19 @@
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Assembly.png" width="45" title="Assembly"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_JavaScript.png" width="45" title="JavaScript"/>
 </p>
-
-**Web & Markup**
-
+Web & Markup
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_HTML5.png" width="45" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_CSS3.png" width="45" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_ASP.NET.png" width="45" title="ASP.NET"/>
 </p>
-
-**Databases & Analytics**
-
+Databases & Analytics
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_MySQL.png" width="45" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SQLServer.png" width="45" title="SQL Server"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SAS.png" width="45" title="SAS"/>
 </p>
-
-**Tools & OS**
-
+Tools & OS
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Git.png" width="45" title="Git"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_GitHub.png" width="45" title="GitHub"/>
@@ -87,12 +73,9 @@
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Ubuntu.png" width="45" title="Ubuntu"/>
   <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Rocky.png" width="45" title="Rocky Linux"/>
 </p>
-
 ---
-
 <!-- PROJECT CONSTELLATION -->
-## 🌌 PROJECT CONSTELLATION
-
+🌌 PROJECT CONSTELLATION
 <table>
   <tr>
     <td width="50%">
@@ -138,47 +121,33 @@
     </td>
   </tr>
 </table>
-
 ---
-
 <!-- SYSTEM METRICS -->
-## 📊 SYSTEM METRICS
-
+📊 SYSTEM METRICS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&theme=radical&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&bg_color=07080f&border_color=1e2540&hide_border=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHudson&layout=compact&theme=radical&title_color=a78bfa&text_color=e2e8f0&bg_color=07080f&border_color=1e2540" height="160"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsHudson&theme=radical&background=07080f&border=1e2540&ring=a78bfa&fire=38bdf8&currStreakLabel=f0abfc&sideLabels=a78bfa&dates=64748b"/>
 </p>
-
 ---
-
 <!-- CONTRIBUTION SNAKE -->
-## 🐍 CONTRIBUTION SNAKE
-
+🐍 CONTRIBUTION SNAKE
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-
 ---
-
 <!-- FUN FACTS -->
-## ✨ FUN FACTS
-
-| | |
-|---|---|
-| 🎂 Ran a cake empire for **6 years** | Ops Manager · AC Cake House |
-| 📡 **Red Hat** certified | Linux System Administration |
-| 📊 Data drove a **25% revenue boost** | Real-world analytics impact |
-| ⚡ Codes in **7+ languages** | From Assembly to Python |
-
+✨ FUN FACTS
+	
+🎂 Ran a cake empire for 6 years	Ops Manager · AC Cake House
+📡 Red Hat certified	Linux System Administration
+📊 Data drove a 25% revenue boost	Real-world analytics impact
+⚡ Codes in 7+ languages	From Assembly to Python
 ---
-
 <!-- SYSTEM STATUS -->
-## 🛰️ SYSTEM STATUS
-
+🛰️ SYSTEM STATUS
 ```
 ╔══════════════════════════════════════════════════════╗
 ║          // hudson · system diagnostics              ║
@@ -189,20 +158,15 @@
 ║  ● location  Cheras, MY · open to remote             ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
 ---
-
 <!-- PERSONAL WEBSITE — WORMHOLE PORTAL -->
-## 🌀 PERSONAL WEBSITE
-
+🌀 PERSONAL WEBSITE
 <p align="center">
   <a href="https://itshudson.github.io/hudsonlab/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:07080f,50:1e0a3c,100:07080f&height=120&text=ENTER%20THE%20LAB%20%E2%86%97&fontSize=28&fontColor=a78bfa&animation=twinkling&desc=itshudson.github.io%2Fhudsonlab&descSize=14&descColor=38bdf8&descAlignY=72" alt="Hudson Lab Portal"/>
   </a>
 </p>
-
 ---
-
 <!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12152a,50:0d0f1e,100:07080f&height=100&section=footer&text=%E2%97%88%20HUDSON%20LAB%20%C2%B7%20GALAXY%20EDITION%20v4.0%20%E2%97%88&fontSize=12&fontColor=64748b&animation=fadeIn"/>
