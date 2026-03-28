@@ -1,176 +1,104 @@
-<!-- HUDSON LAB · GALAXY EDITION v4.0 -->
-<!-- SVGs hosted at: github.com/itsHudson/hudsonlab/tree/main/SVG -->
-<!-- Upload 01_hero.svg · 02_identity.svg · 05_radar.svg · 06_wormhole.svg · sec_whoami.svg into that SVG/ folder -->
-
-<!-- HERO -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/SVG/01_hero.svg" width="100%" alt="Hudson Lab Hero"/>
-</p>
-
----
-
-<!-- WHO AM I LABEL -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/SVG/sec_whoami.svg" width="100%" alt="Who Am I"/>
-</p>
-
-<!-- HOLOGRAPHIC ID CARD -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/SVG/02_identity.svg" width="100%" alt="Holographic ID Card"/>
-</p>
-
----
-
-## ⚡ TECH ARSENAL
-
-**Languages**
+<h1 align="center">Hi, I'm Hudson 👋</h1>
+<h3 align="center">Data Analytics · Systems · APU 2024</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Python.png" width="45" title="Python"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Java.png" width="45" title="Java"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C.png" width="45" title="C"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C++.png" width="45" title="C++"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C%23.png" width="45" title="C#"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_R.png" width="45" title="R"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Assembly.png" width="45" title="Assembly"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_JavaScript.png" width="45" title="JavaScript"/>
+  CS undergraduate specialising in <b>Data Analytics</b> at APU <br>
+  Red Hat Certified · Open to Internship Opportunities · Building efficient solutions
 </p>
 
-**Web & Markup**
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_HTML5.png" width="45" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_CSS3.png" width="45" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_ASP.NET.png" width="45" title="ASP.NET"/>
-</p>
-
-**Databases & Analytics**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_MySQL.png" width="45" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SQLServer.png" width="45" title="SQL Server"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SAS.png" width="45" title="SAS"/>
-</p>
-
-**Tools & OS**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Git.png" width="45" title="Git"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_GitHub.png" width="45" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudioCode.png" width="45" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudio.png" width="45" title="Visual Studio"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_ApacheNetbeans.png" width="45" title="NetBeans"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_CodeBlock.png" width="45" title="CodeBlocks"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Figma.png" width="45" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Slack.png" width="45" title="Slack"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Ubuntu.png" width="45" title="Ubuntu"/>
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Rocky.png" width="45" title="Rocky Linux"/>
-</p>
-
----
-
-## 🌌 PROJECT CONSTELLATION &nbsp; `7 SYSTEMS`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🟣 Python — Classroom Mgmt System</b><br/>
-      Attendance tracking & schedule management with file I/O and modular design<br/>
-      <code>file I/O</code> <code>scheduling</code> <code>modular</code>
-    </td>
-    <td width="50%" valign="top">
-      <b>🔵 Java — APU Medical Centre</b><br/>
-      OOP system with patient records, appointments & billing via inheritance<br/>
-      <code>OOP</code> <code>inheritance</code> <code>billing</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>🩷 C — Bus Reservation System</b><br/>
-      Seat reservation & cancellation using arrays, pointers and file I/O<br/>
-      <code>arrays</code> <code>pointers</code> <code>file I/O</code>
-    </td>
-    <td valign="top">
-      <b>🟡 Assembly — Shape Generation System</b><br/>
-      Geometric rendering using registers, loops and low-level memory ops<br/>
-      <code>registers</code> <code>loops</code> <code>memory</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>🟢 SAS — Education Domain EDA</b><br/>
-      Data cleaning & statistical modelling on education datasets in SAS Studio<br/>
-      <code>EDA</code> <code>data cleaning</code> <code>stats</code>
-    </td>
-    <td valign="top">
-      <b>🔴 Systems Design — Green Haven Resorts</b><br/>
-      SDLC Waterfall system with use-case & process diagrams<br/>
-      <code>SDLC</code> <code>waterfall</code> <code>UML</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b>🟠 Agile — APU TalentLink</b><br/>
-      Internship/job matching platform with sprints, user stories & UI/UX mockups<br/>
-      <code>agile</code> <code>UI/UX</code> <code>Figma</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&theme=radical&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&bg_color=07080f&border_color=1e2540" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHudson&layout=compact&theme=radical&title_color=a78bfa&text_color=e2e8f0&bg_color=07080f&border_color=1e2540" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsHudson&theme=radical&background=07080f&border=1e2540&ring=a78bfa&fire=38bdf8&currStreakLabel=f0abfc&sideLabels=a78bfa&dates=64748b" width="60%"/>
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-## ✨ FUN FACTS
-
-<table align="center">
-  <tr>
-    <td align="center" width="190">🎂<br/><b>Ran a cake empire for 6 years</b><br/><sub>Ops Manager · AC Cake House</sub></td>
-    <td align="center" width="190">📡<br/><b>Red Hat certified</b><br/><sub>Linux System Administration</sub></td>
-    <td align="center" width="190">📊<br/><b>Data drove 25% revenue boost</b><br/><sub>Real-world analytics impact</sub></td>
-    <td align="center" width="190">⚡<br/><b>Codes in 7+ languages</b><br/><sub>From Assembly to Python</sub></td>
-  </tr>
-</table>
-
----
-
-## 🛰️ SYSTEM STATUS
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/SVG/05_radar.svg" width="100%" alt="System Status Radar"/>
-</p>
-
----
-
-## 🌀 PERSONAL WEBSITE
-
-<p align="center">
-  <a href="https://itshudson.github.io/hudsonlab/">
-    <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/SVG/06_wormhole.svg" width="100%" alt="Hudson Lab Wormhole Portal"/>
+  <a href="https://github.com/itsHudson">
+    <img src="https://img.shields.io/badge/GitHub-Profile-161b22?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://itshudson.github.io/hudsonlab/">
+    <img src="https://img.shields.io/badge/Portfolio-Hudson%20Lab-6d28d9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internship-22c55e?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Bachelor of Computer Science student specialising in **Data Analytics**
+- 📊 Interested in **data analytics, systems design, and software development**
+- 🛠️ Comfortable with both **technical coding** and **real-world operations**
+- 📈 Experienced in using data to support better decision-making
+- 🌍 Languages: **English, BM, Chinese, Cantonese**
+- 💼 Currently looking for **internship opportunities**
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=c-sharp)
+![R](https://img.shields.io/badge/R-111827?style=flat-square&logo=r)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![Assembly](https://img.shields.io/badge/Assembly-111827?style=flat-square)
+
+### Web & Markup
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-111827?style=flat-square&logo=dotnet)
+
+### Data & Database
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=flat-square&logo=microsoftsqlserver)
+![SAS](https://img.shields.io/badge/SAS-111827?style=flat-square)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111827?style=flat-square&logo=visualstudio)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=flat-square&logo=ubuntu)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-111827?style=flat-square)
+
+---
+
+## 🌌 Featured Projects
+
+### 📘 Classroom Management System
+Attendance tracking and schedule management with modular design and file handling.
+
+### 🏥 APU Medical Centre
+Java OOP system with patient records, appointments, and billing features.
+
+### 🚌 Bus Reservation System
+Built with C using arrays, pointers, and file I/O.
+
+### 📊 Education Domain EDA
+Data cleaning and statistical analysis using SAS.
+
+### 💼 APU TalentLink
+Internship and job matching platform with Agile planning and UI/UX design.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHudson&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/itsHudson">GitHub</a> ·
+  <a href="https://itshudson.github.io/hudsonlab/">Portfolio Website</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12152a,50:0d0f1e,100:07080f&height=80&section=footer&text=%E2%97%88%20HUDSON%20LAB%20%C2%B7%20GALAXY%20EDITION%20v4.0%20%E2%97%88&fontSize=11&fontColor=64748b&animation=fadeIn"/>
+  <i>Building systems, exploring data, and turning ideas into practical solutions.</i>
 </p>
