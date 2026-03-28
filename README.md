@@ -1,88 +1,112 @@
-<div align="center">
-
-<!-- YOUR ORIGINAL DESIGN (UNCHANGED) -->
-
-<style>
-/* ⚠️ GitHub may ignore styles but we keep it intact */
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap');
-*{box-sizing:border-box;margin:0;padding:0}
-:root{--void:#07080f;--panel:#161929;--dim:#1e2540;--a1:#a78bfa;--a2:#38bdf8;--a3:#f0abfc;--gold:#fbbf24;--green:#4ade80;--text:#e2e8f0;--muted:#64748b}
-body{background:var(--void);font-family:'Space Grotesk',sans-serif;color:var(--text)}
-</style>
-
-<!-- CONTENT -->
-
-<h1>HUDSON</h1>
-<p><b>DATA ANALYTICS · SYSTEMS · APU 2024</b></p>
-
-<p>
-Data Explorer · Systems Programmer · Python · R · SQL · SAS<br>
-Open to internships · Malaysia
+<h1 align="center">HUDSON</h1>
+<p align="center">
+  <b>DATA ANALYTICS · SYSTEMS · APU 2024</b>
 </p>
 
-<hr>
-
-<h2>WHO AM I</h2>
-
-<p>
-<b>CHIA JIN HAU</b><br>
-UID: HDS-2024<br>
-Clearance: Analyst
+<p align="center">
+  Data Explorer • Systems Programmer • Open to Internship (Malaysia)
 </p>
 
-<p>
-CS undergraduate specialising in <b>Data Analytics</b> at APU.<br>
-6 years real-world experience:
+---
+
+## 👨‍💻 WHO AM I
+
+- 🎓 BSc Computer Science (Data Analytics)
+- 📊 Data-driven decision maker with real-world impact:
+  - +25% revenue growth
+  - -12% cost reduction
+  - +20% customer satisfaction
+- 🧠 Red Hat Certified System Administrator
+- 💻 Code range: Assembly → Python
+- 🌍 Languages: EN · BM · 中文 · 粤语
+- 📍 Malaysia (Open to remote)
+
+---
+
+## ⚡ TECH STACK
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+### 🌐 Web
+HTML5 · CSS3 · ASP.NET
+
+### 🗄️ Databases
+MySQL · SQL Server · SAS
+
+### 🛠️ Tools
+Git · GitHub · VS Code · Visual Studio · NetBeans · CodeBlocks · Figma
+
+### 🖥️ OS
+Ubuntu · Rocky Linux
+
+---
+
+## 🚀 PROJECTS
+
+### 🐍 Classroom Management System
+- Attendance tracking + scheduling
+- File I/O + modular design
+
+### ☕ APU Medical Centre (Java)
+- OOP system (inheritance)
+- Patient records + billing
+
+### 🚌 Bus Reservation System (C)
+- Arrays + pointers + file handling
+
+### ⚙️ Assembly Shape Generator
+- Low-level rendering using registers
+
+### 📊 Education EDA (SAS)
+- Data cleaning + statistical modelling
+
+### 🏨 Green Haven Resorts
+- SDLC (Waterfall) + UML diagrams
+
+### 💼 APU TalentLink
+- Job matching system (Agile + UI/UX)
+
+---
+
+## 📊 STATS
+
+- 🧩 Languages: 7+
+- 💼 Experience: 6 Years (Operations + Data)
+- 📁 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/itsHudson)
+
+---
+
+## 🎯 CURRENT STATUS
+
+- 🟢 Actively seeking internship / data role
+- 🟡 Expanding analytics & system design skills
+- 🟣 Building real-world impactful systems
+
+---
+
+## 🌌 FUN FACTS
+
+- 🎂 Ran a cake business for 6 years
+- 📡 Red Hat Certified
+- 📊 Data increased revenue by 25%
+- ⚡ Multi-language programmer
+
+---
+
+## 🌐 PERSONAL WEBSITE
+
+🔗 https://itshudson.github.io/hudsonlab/
+
+---
+
+<p align="center">
+  ◈ HUDSON LAB · DATA ANALYTICS ◈
 </p>
-
-<ul>
-<li>25% revenue increase</li>
-<li>12% cost reduction</li>
-<li>20% satisfaction improvement</li>
-</ul>
-
-<hr>
-
-<h2>TECH ARSENAL</h2>
-
-<p>
-Python · Java · C · C++ · C# · R · Assembly · JavaScript<br>
-HTML · CSS · ASP.NET<br>
-MySQL · SQL Server · SAS<br>
-Git · GitHub · VS Code · Visual Studio · NetBeans · CodeBlocks · Figma · Ubuntu · Rocky Linux
-</p>
-
-<hr>
-
-<h2>PROJECTS</h2>
-
-<ul>
-<li>Classroom Management System (Python)</li>
-<li>APU Medical Centre (Java)</li>
-<li>Bus Reservation System (C)</li>
-<li>Shape Generator (Assembly)</li>
-<li>Education EDA (SAS)</li>
-<li>Green Haven Resorts (SDLC)</li>
-<li>APU TalentLink (Agile)</li>
-</ul>
-
-<hr>
-
-<h2>SYSTEM STATUS</h2>
-
-<pre>
-kernel   : ONLINE
-mission  : seeking internship
-degree   : BSc CS (Data Analytics)
-location : Malaysia
-</pre>
-
-<hr>
-
-<h2>PORTAL</h2>
-
-<a href="https://itshudson.github.io/hudsonlab/">
-ENTER HUDSON LAB
-</a>
-
-</div>
