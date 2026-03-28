@@ -1,83 +1,117 @@
-# 👋 Hi, I'm Hudson
+<!-- 🔥 CYBERPUNK HEADER -->
 
-💻 Passionate developer working across systems programming, web development, and data analytics.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=HUDSON%20LAB&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
+</p>
 
----
+<!-- ⚡ TYPING ANIMATION -->
 
-## 🚀 Tech Stack
-
-### 🧠 Languages
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=csharp)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge\&logo=r)
-![Assembly](https://img.shields.io/badge/Assembly-grey?style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Hi+I'm+Hudson;Full-Stack+Developer;Systems+Programmer;Data+Explorer;Welcome+to+my+Cyber+Lab" />
+</p>
 
 ---
 
-### 🌐 Web & Frameworks
+# 👨‍💻 Hudson
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge\&logo=dotnet)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge\&logo=microsoftsqlserver)
-![SAS](https://img.shields.io/badge/SAS-blue?style=for-the-badge)
+```diff
++ Full-Stack Developer
++ Systems Programmer (C / Assembly)
++ Data Analysis (Python / R)
++ Building cool & efficient systems
+```
 
 ---
 
-### 🛠️ Tools & Platforms
+# 🧠 Tech Arsenal
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge\&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge\&logo=visualstudio)
-![Apache NetBeans](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge\&logo=apache-netbeans-ide)
-![Code::Blocks](https://img.shields.io/badge/CodeBlocks-red?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge\&logo=figma)
-![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge\&logo=slack)
+## ⚡ Languages
 
----
-
-### 🐧 Operating Systems
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge\&logo=ubuntu)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-green?style=for-the-badge)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C++.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C#.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Java.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Python.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_JavaScript.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_R.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Assembly.png" width="45"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Web & Frameworks
 
-![Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>\&layout=compact\&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=<YOUR_USERNAME>\&theme=radical)
-
----
-
-## 🔥 What I'm Working On
-
-* 🚀 Full-stack development projects
-* 📊 Data analysis with Python & R
-* ⚙️ Low-level programming (C / Assembly)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_HTML5.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_CSS3.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_ASP.NET.png" width="45"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🗄️ Databases
 
-* GitHub: https://github.com/<YOUR_USERNAME>
-* LinkedIn: <YOUR_LINKEDIN>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_MySQL.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SQLServer.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SAS.png" width="45"/>
+</p>
 
 ---
 
-⭐️ From Hudson
+## 🛠️ Tools & OS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Git.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_GitHub.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudioCode.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudio.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_ApacheNetbeans.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_CodeBlock.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Figma.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Slack.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Ubuntu.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Rocky.png" width="45"/>
+</p>
+
+---
+
+# 📊 System Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&theme=radical&title_color=00ffcc&icon_color=00ffcc"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsHudson&theme=radical&ring=00ffcc&fire=00ffcc"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHudson&layout=compact&theme=radical&title_color=00ffcc"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# ⚡ Live Status
+
+```bash
+> Initializing Hudson.exe...
+> Loading modules...
+> System status: ONLINE
+> Welcome to the lab.
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
