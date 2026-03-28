@@ -1,49 +1,49 @@
 <div align="center">
+  <!-- Waving Capsule Header with Color Gradient -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B17,25:111827,55:312E81,80:2563EB,100:D946EF&text=HUDSON&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=DATA%20ANALYTICS%20%C2%B7%20SYSTEMS%20%C2%B7%20APU&descAlignY=58&animation=fadeIn" />
+  <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B17,25:111827,55:312E81,80:2563EB,100:D946EF&text=HUDSON&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=DATA%20ANALYTICS%20%C2%B7%20SYSTEMS%20%C2%B7%20APU&descAlignY=58&animation=fadeIn" />
+  <!-- Typing Animation Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=600&lines=Data+Analytics+Student;Systems+Builder;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+SAS;Assembly+to+ASP.NET;Turning+logic+into+practical+solutions;Open+to+Internship+Opportunities" />
+  <br><br>
 
-<br>
+  <!-- Badge for Credentials -->
+  <img src="https://img.shields.io/badge/APU-Computer%20Science-111827?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialism-Data%20Analytics-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Red%20Hat-E11D48?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-16A34A?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=600&lines=Data+Analytics+Student;Systems+Builder;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+SAS;Assembly+to+ASP.NET;Turning+logic+into+practical+solutions;Open+to+Internship+Opportunities" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/APU-Computer%20Science-111827?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Specialism-Data%20Analytics-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Certified-Red%20Hat-E11D48?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internship-16A34A?style=for-the-badge&logo=briefcase&logoColor=white" />
-
-<br><br>
-
-<a href="https://itshudson.github.io/hudsonlab/">
-  <img src="https://img.shields.io/badge/ENTER-HUDSON%20LAB-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+  <!-- Link to Portfolio -->
+  <a href="https://itshudson.github.io/hudsonlab/">
+    <img src="https://img.shields.io/badge/ENTER-HUDSON%20LAB-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
 </div>
 
 ---
 
 <div align="center">
+  <!-- Dynamic Capsule with Twinkling Animation -->
   <img width="120" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111827,100:1F2937&text=CJH&fontSize=34&fontColor=A78BFA&animation=twinkling" />
 </div>
 
 ## ✦ SIGNAL PROFILE
 
-I am a **Computer Science undergraduate specialising in Data Analytics** at APU, with strong interest in **analytics, systems development, and practical software solutions**.
+I am a **Computer Science undergraduate specialising in Data Analytics** at APU, with a strong interest in **analytics, systems development, and practical software solutions**.
 
 Beyond academic projects, I bring **6 years of real-world operations experience**, where data-supported decisions contributed to:
-
 - **25% revenue growth**
 - **12% cost reduction**
 - **20% customer satisfaction improvement**
 
-### Current Direction
+### Current Focus Areas
 - Data analytics
 - Software and systems development
 - Portfolio-quality technical projects
 - Industry readiness and internship preparation
 
-### Languages
+### Multilingual Capabilities
 - English
 - Bahasa Melayu
 - Chinese
@@ -133,24 +133,4 @@ System analysis and design project using SDLC Waterfall and UML modelling.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsHudson&theme=tokyonight&hide_border=true&border_radius=18" />
-</p>
-
----
-
-## ✦ MISSION CONTROL
-
-```text
-Status   : Open to internship opportunities
-Focus    : Data analytics · systems · development
-Base     : Malaysia
-Strength : Practical operations + technical learning
-Mode     : Build · Learn · Improve
-Portal   : itshudson.github.io/hudsonlab
-```
-
-##  ✦ QUICK ACCESS
-<div align="center"> <a href="https://github.com/itsHudson"> <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://itshudson.github.io/hudsonlab/"> <img src="https://img.shields.io/badge/Portfolio-Hudson%20Lab-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div>
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:D946EF,45:2563EB,100:070B17" />
-◈ HUDSON LAB · DATA ANALYTICS · SYSTEMS ◈
-</div> ```
+  <img src="https://streak
