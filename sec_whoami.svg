@@ -1,0 +1,11 @@
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="30" fill="#07080f"/>
+  <text x="20" y="20" font-family="'Space Mono',monospace" font-size="9" letter-spacing="3" fill="#38bdf8">WHO AM I</text>
+  <line x1="110" y1="15" x2="780" y2="15" stroke="url(#lineG)" stroke-width="1"/>
+</svg>
