@@ -6,7 +6,7 @@
 
 <!-- HERO — animated stars + name + typing -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/SVG/01_hero.svg" width="100%" alt="Hudson Lab Hero"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/blob/main/01_hero.svg" width="100%" alt="Hudson Lab Hero"/>
 </p>
 
 ---
