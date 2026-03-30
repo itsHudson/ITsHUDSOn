@@ -1,111 +1,136 @@
----
+<div align="center">
 
-# 📌 PROJECT OVERVIEW
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B17,40:1a2f55,100:2563EB&text=HUDSON&fontSize=56&fontColor=EDF2FF&fontAlignY=38&desc=DATA%20ANALYTICS%20·%20SYSTEMS&descSize=14&descAlignY=58" />
 
-> Smart Resume Analyzer — NLP-based ATS system for structured resume parsing and matching.
+<br/>
 
-**Type:** Applied System / Portfolio Project  
-**Purpose:** Improve resume parsing accuracy in multilingual and unstructured formats  
+## 👤 Data Analytics · Systems Developer
 
----
+<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/itsHudson?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/itsHudson?style=for-the-badge"/>
 
-# 🚀 LIVE DEMO
+<br/><br/>
 
-- 🌐 Demo: (Coming Soon)
-- 💻 Repository: https://github.com/itsHudson/your-project
-- 📊 Sample Output: (add screenshot later)
+<a href="https://itshudson.github.io/hudsonlab/">
+<img src="https://img.shields.io/badge/PORTFOLIO-HUDSON%20LAB-2563EB?style=for-the-badge"/>
+</a>
 
----
-
-# ⚙️ HOW TO RUN
-
-```bash
-git clone https://github.com/itsHudson/your-project
-cd your-project
-pip install -r requirements.txt
-python main.py
-````
+</div>
 
 ---
 
-# 🧱 PROJECT STRUCTURE
+## 🧠 ABOUT
 
-```
-project/
-├── data/
-├── models/
-├── preprocessing/
-├── parser/
-├── main.py
-└── requirements.txt
-```
+- 🎓 Computer Science (Data Analytics) @ APU  
+- ⚙️ Build systems + data-driven solutions  
+- 📊 Focus: Data · Backend · System Design  
+- 🎯 Goal: Internship in Data / Software Engineering  
 
 ---
 
-# 🧠 TECHNICAL HIGHLIGHTS
+## 🚀 WHAT I DO
 
-* Named Entity Recognition (NER) for resume parsing
-* Text preprocessing: tokenization, normalization
-* BERT embeddings for contextual understanding
-* Handles multilingual resume formats
-
----
-
-# 📊 PERFORMANCE (TO ADD LATER)
-
-| Metric          | Value |
-| --------------- | ----- |
-| Accuracy        | TBD   |
-| Processing Time | TBD   |
-| Dataset Size    | TBD   |
+- Transform raw data → actionable insights  
+- Build structured systems (ASP.NET, SQL)  
+- Solve real-world workflow problems  
 
 ---
 
-# 📸 PREVIEW
+## ⭐ FLAGSHIP PROJECT
 
-![preview](your-image-link-here)
+### 🧠 Smart Resume Analyzer (ATS)
 
----
+> NLP system for parsing and analyzing resumes
 
-# 🔌 API (OPTIONAL FUTURE)
+- Named Entity Recognition (NER)
+- Multilingual parsing
+- Structured data extraction
 
-| Endpoint | Description                    |
-| -------- | ------------------------------ |
-| `/parse` | Extract structured resume data |
-| `/match` | Match candidate with job       |
-
----
-
-# 📦 VERSION
-
-* v0.1 — Initial prototype
-* v0.2 — NLP integration (planned)
+🔗 *(Add repo link here when ready)*  
+🔗 *(Add demo later)*  
 
 ---
 
-# 🧪 TESTING
+## 💼 TOP PROJECTS
 
-* Basic functional testing
-* Future: unit tests + evaluation metrics
-
----
-
-# 🤝 CONTRIBUTING
-
-Contributions are welcome.
-Feel free to fork and submit pull requests.
+### 📊 Education Data Analysis  
+→ Data cleaning · EDA · insights  
+🔗 *(repo link)*  
 
 ---
 
-# 📄 LICENSE
+### 💼 TalentLink Platform  
+→ Internship matching system  
+🔗 *(repo link)*  
 
-MIT License
+---
+
+### 🏥 Medical Centre System  
+→ OOP system design  
+🔗 *(repo link)*  
 
 ---
 
-# 📬 CONTACT
+## ⚙️ TECH STACK
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+<div align="center">
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="45"/>
+
+<br/>
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="45"/>
+
+<br/>
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="45"/>
+
+</div>
 
 ---
+
+## 📊 GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=transparent" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHudson&layout=compact&hide_border=true&theme=transparent" width="40%"/>
+
+</div>
+
+---
+
+## 🚀 NOW
+
+- 🧠 Building Resume Analyzer (NLP + ATS)  
+- 🎓 Developing MyGoPandai platform  
+- 📈 Improving data analytics portfolio  
+
+---
+
+## 📬 CONNECT
+
+- 🌐 Portfolio: https://itshudson.github.io/hudsonlab/  
+- 💼 LinkedIn: *(add link)*  
+- 📧 Email: *(add email)*  
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:1a2f55,100:070B17" />
+
+</div>
