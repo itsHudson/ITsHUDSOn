@@ -1,126 +1,141 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030712,40:0B1A33,100:2563EB&text=HUDSON%20INTERFACE&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=SYSTEM%20INITIALIZATION&descSize=14&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0B1A33,100:2563EB&text=HUDSON%20SYSTEM%20V3&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=NEURAL%20DATA%20INTERFACE&descSize=14&descAlignY=58" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Booting+System...;Loading+Data+Modules...;Establishing+Signal...;System+Status:+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=1800&pause=600&color=60A5FA&center=true&vCenter=true&width=750&lines=Booting+Core...;Loading+Neural+Modules...;Establishing+Data+Link...;Scanning+Environment...;System+ONLINE" />
 
 </div>
 
 ---
 
-## 🧠 SYSTEM CORE
+## 🧠 SYSTEM BOOT LOG
 
 ```bash
-> initializing entity...
+> boot sequence initialized...
+
+[ OK ] core loaded
+[ OK ] data engine online
+[ OK ] system modules connected
+[ OK ] signal link established
+
+> entity recognized...
 
 ENTITY      : HUDSON
-CLASS       : DATA OPERATOR
-ARCHETYPE   : SYSTEM BUILDER
+TYPE        : DATA-DRIVEN SYSTEM
+ROLE        : ANALYST / BUILDER
 STATUS      : ONLINE
-MODE        : ANALYZE / OPTIMIZE / BUILD
 
-> mission loaded:
-→ transform raw data into structured systems
+> mission directive:
+→ analyze → optimize → construct systems
 ````
 
 ---
 
-## 📡 LIVE METRICS
+## 📡 LIVE DATA SCAN
+
+```bash
+> scanning operational dataset...
+
+pattern detected → customer_behavior
+optimization path → workflow_reduction
+signal strength → HIGH
+
+> generating impact metrics...
+```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REVENUE-+25%25-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COST--12%25-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SATISFACTION-+20%25-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/+25%25-REVENUE-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-12%25-COST-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/+20%25-SATISFACTION-3B82F6?style=for-the-badge"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/EFFICIENCY-+15%25-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INVENTORY--20%25-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QUALITY-95%25+-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/+15%25-EFFICIENCY-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-20%25-INVENTORY-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/95%25+-QUALITY-A855F7?style=for-the-badge"/>
 
 </div>
 
+---
+
+## ⚙️ CORE SYSTEM MODULES
+
 ```text
-[DATA SOURCE] → REAL OPERATIONAL ANALYSIS
-[CONFIDENCE ] → HIGH
+[ DATA ENGINE ]
+→ EDA · Statistical Analysis · Pattern Extraction
+
+[ SYSTEM BUILDER ]
+→ ASP.NET · SQL · Structured Architecture
+
+[ OPTIMIZATION UNIT ]
+→ Workflow Efficiency · Cost Reduction
 ```
 
 ---
 
-## ⚙️ CORE MODULES
-
-```text
-[01] DATA ENGINE
-     → EDA · Cleaning · Pattern Extraction
-
-[02] SYSTEM ARCHITECTURE
-     → ASP.NET · SQL · Structured Design
-
-[03] OPTIMIZATION UNIT
-     → Workflow Analysis · Efficiency Boost
-```
-
----
-
-## 🧩 FLAGSHIP NODE
+## 🧩 FLAGSHIP NODE — ATS ENGINE
 
 ```bash
-> loading module: ATS_RESUME_ANALYZER...
+> loading module: resume_analyzer_v1...
 
-STATUS      : IN DEVELOPMENT
 TYPE        : NLP SYSTEM
-PURPOSE     : resume parsing + structured extraction
+STATUS      : BUILDING
+PIPELINE    : UNSTRUCTURED → STRUCTURED
 
-capabilities:
-- named entity recognition (NER)
-- multilingual parsing
-- unstructured → structured pipeline
+features:
++ NER (entity extraction)
++ multilingual parsing
++ data normalization
 ```
 
 ---
 
-## 🌌 PROJECT MATRIX
+## 🌌 PROJECT NETWORK (NODE MAP)
 
 ```text
-[DATA NODE]
-→ Education Analysis (EDA / Statistical Insights)
-
-[SYSTEM NODE]
-→ TalentLink (Agile Platform / Matching System)
-
-[APPLICATION NODE]
-→ Medical Centre (Java / OOP Architecture)
-
-[LOW LEVEL NODE]
-→ Bus System (C / Memory + File Handling)
+      [ DATA NODE ]
+           │
+           ▼
+  Education Analysis
+           │
+ ──────────┼──────────
+           │
+           ▼
+  TalentLink System ───► (MATCHING ENGINE)
+           │
+           ▼
+ Medical System (OOP CORE)
+           │
+           ▼
+  Bus System (LOW-LEVEL CORE)
 ```
 
 ---
 
-## 🧪 TECH ARSENAL
+## 🧪 TECH MATRIX
 
 <div align="center">
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="38"/>
 
 <br/>
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="38"/>
 
 <br/>
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="40"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="38"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="38"/>
 
 </div>
 
@@ -135,35 +150,36 @@ capabilities:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=030712&color=60A5FA&line=2563EB&point=E6F1FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=020617&color=60A5FA&line=2563EB&point=E6F1FF&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 CURRENT OPERATION
+## 🚀 ACTIVE OPERATIONS
 
 ```bash
-> scanning active tasks...
+> monitoring tasks...
 
 [ACTIVE]
-→ building resume analyzer (NLP + ATS)
-→ developing MyGoPandai system
-→ expanding analytics capability
+→ ATS Resume Analyzer
+→ MyGoPandai System
+→ Data Analytics Expansion
 
-[NEXT]
+[UPCOMING]
 → deploy real system
-→ build data dashboard
+→ build dashboard
+→ integrate data pipeline
 ```
 
 ---
 
-## 🛰️ ACCESS PORTAL
+## 🛰️ ACCESS TERMINAL
 
 <div align="center">
 
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/ENTER%20SYSTEM-HUDSON%20LAB-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENTER%20INTERFACE-HUDSON%20LAB-2563EB?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -176,6 +192,6 @@ capabilities:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:0B1A33,100:030712" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:0B1A33,100:020617" />
 
 </div>
