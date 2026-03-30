@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070B17,35:0D1F3C,65:1a2f55,100:2563EB&text=HUDSON&fontSize=64&fontColor=EDF2FF&fontAlignY=38&desc=DATA%20ANALYTICS%20%C2%B7%20SYSTEMS%20%C2%B7%20BUILDER&descSize=15&descAlignY=58&animation=fadeIn&fontAlign=50" />
@@ -16,11 +17,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=2563EB" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=2563EB" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/itsHudson?style=for-the-badge&color=1E3A6E&labelColor=0D1F3C" alt="Followers" />
+<img src="https://img.shields.io/github/followers/itsHudson?style=for-the-badge&color=1E3A6E&labelColor=0D1F3C" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/itsHudson?style=for-the-badge&color=1E3A6E&labelColor=0D1F3C" alt="Stars" />
+<img src="https://img.shields.io/github/stars/itsHudson?style=for-the-badge&color=1E3A6E&labelColor=0D1F3C" />
 
 <br/><br/>
 
@@ -38,15 +39,13 @@ Computer Science undergraduate (Data Analytics) at APU, focused on building prac
 
 From operational experience → to systems → to data-driven solutions.
 
-Experience includes delivering measurable operational impact:
-
 <div align="center">
 
-| Metric                   | Result   | Area                      |
-| ------------------------ | -------- | ------------------------- |
-| 📈 Revenue Growth        | **+25%** | Operational contributions |
-| 💰 Cost Reduction        | **−12%** | Efficiency improvements   |
-| 😊 Customer Satisfaction | **+20%** | Service quality           |
+| Metric | Result | Area |
+|--------|--------|------|
+| 📈 Revenue Growth | **+25%** | Operational contributions |
+| 💰 Cost Reduction | **−12%** | Efficiency improvements |
+| 😊 Customer Satisfaction | **+20%** | Service quality |
 
 </div>
 
@@ -58,9 +57,9 @@ Experience includes delivering measurable operational impact:
 
 > Intelligent resume parsing system designed for real-world recruitment challenges
 
-* NLP-based resume parsing using Named Entity Recognition (NER)
-* Handles multilingual and unstructured resume formats
-* Improves candidate-job matching accuracy
+- NLP-based resume parsing using Named Entity Recognition (NER)
+- Handles multilingual and unstructured resume formats
+- Improves candidate-job matching accuracy
 
 **Tech Stack:** Python · NLP · BERT · Data Processing
 
@@ -69,88 +68,91 @@ Experience includes delivering measurable operational impact:
 ## `// FEATURED BUILDS`
 
 ### 📘 Classroom Management System
+- Built modular attendance tracking and scheduling system  
+- Designed structured data handling and record management  
+- Improved workflow clarity for classroom operations  
 
-* Built modular attendance tracking and scheduling system
-* Designed structured data handling and record management
-* Improved workflow clarity for classroom operations
+**Tech:** Python · File I/O · Data Structures  
 
-**Tech:** Python · File I/O · Data Structures
+---
 
 ### 🏥 APU Medical Centre System
+- Developed patient records, appointment and billing system using OOP  
+- Improved organization of healthcare data and process flow  
+- Strengthened system structure and maintainability  
 
-* Developed patient records, appointment and billing system using OOP
-* Improved organization of healthcare data and process flow
-* Strengthened system structure and maintainability
+**Tech:** Java · OOP · System Design  
 
-**Tech:** Java · OOP · System Design
+---
 
 ### 🚌 Bus Reservation System
+- Implemented booking system using arrays, pointers and file handling  
+- Focused on low-level memory control and program logic  
+- Strengthened understanding of structured C programming  
 
-* Implemented booking system using arrays, pointers and file handling
-* Focused on low-level memory control and program logic
-* Strengthened understanding of structured C programming
+**Tech:** C · Pointers · File Handling  
 
-**Tech:** C · Pointers · File Handling
+---
 
 ### 📊 Education Data Analysis
+- Performed data cleaning, transformation and exploratory analysis  
+- Extracted meaningful insights from structured datasets  
+- Improved understanding of performance trends  
 
-* Performed data cleaning, transformation and exploratory analysis
-* Extracted meaningful insights from structured datasets
-* Improved understanding of performance trends
+**Tech:** SAS · Data Analysis  
 
-**Tech:** SAS · Data Analysis
+---
 
 ### 💼 APU TalentLink
+- Designed internship and job matching platform  
+- Applied Agile development and modular system planning  
+- Improved understanding of real-world platform design  
 
-* Designed internship and job matching platform
-* Applied Agile development and modular system planning
-* Improved understanding of real-world platform design
-
-**Tech:** ASP.NET · SQL Server
+**Tech:** ASP.NET · SQL Server  
 
 ---
 
 ## `// SYSTEM DESIGN`
 
-* Designed relational database structures using SQL Server
-* Applied normalization and ERD modelling
-* Built modular systems using ASP.NET Web Forms
-* Implemented validation and secure data handling
+- Designed relational database structures using SQL Server  
+- Applied normalization and ERD modelling  
+- Built modular systems using ASP.NET Web Forms  
+- Implemented validation and secure data handling  
 
 ---
 
 ## `// DATA INTELLIGENCE`
 
-* Performed exploratory data analysis (EDA) on structured datasets
-* Applied data cleaning, transformation and visualization
-* Extracted insights to support decision-making
+- Performed exploratory data analysis (EDA) on structured datasets  
+- Applied data cleaning, transformation and visualization  
+- Extracted insights to support decision-making  
 
-📊 **Example Insight**
-Performance improves when attendance exceeds key threshold levels.
+📊 **Example Insight**  
+Performance improves when attendance exceeds key threshold levels.  
 
 ---
 
 ## `// TECH STACK`
 
-**Core**
-Python · SQL · R · SAS
+**Core**  
+Python · SQL · R · SAS  
 
-**Systems**
-C · C++ · Assembly
+**Systems**  
+C · C++ · Assembly  
 
-**Web**
-ASP.NET · HTML · CSS · JavaScript
+**Web**  
+ASP.NET · HTML · CSS · JavaScript  
 
-**Tools**
-Git · GitHub · Visual Studio · VS Code · Figma · SQL Server
+**Tools**  
+Git · GitHub · Visual Studio · VS Code · Figma · SQL Server  
 
 ---
 
 ## `// CURRENTLY BUILDING`
 
-* 🧠 Resume Parsing System (NLP + ATS) — *In Progress*
-* 🎓 MyGoPandai Learning Platform — *System Design & Development*
-* 🌐 HUDSON LAB Portfolio — *Continuous Improvement*
+- 🧠 Resume Parsing System (NLP + ATS) — *In Progress*  
+- 🎓 MyGoPandai Learning Platform — *System Design & Development*  
+- 🌐 HUDSON LAB Portfolio — *Continuous Improvement*  
 
 ---
 
@@ -194,7 +196,7 @@ Git · GitHub · Visual Studio · VS Code · Figma · SQL Server
 │  STRENGTH  →  Practical operations + technical learning │
 │  MODE      →  Build · Learn · Improve                   │
 └─────────────────────────────────────────────────────────┘
-```
+````
 
 ---
 
@@ -222,20 +224,5 @@ Actively seeking internship opportunities in:
 
 *◈ HUDSON LAB · DATA ANALYTICS · SYSTEMS ◈*
 
-```html
-## `// CONTRIBUTION STREAM`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
 ```
-
-</div>
-
-
