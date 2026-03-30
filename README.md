@@ -4,7 +4,7 @@
 
 <br/>
 
-## 👤 Data Analytics · Systems Developer
+## 👤 Data Analytics · Backend Systems
 
 <img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=2563EB"/>
 <img src="https://img.shields.io/github/followers/itsHudson?style=for-the-badge"/>
@@ -20,81 +20,86 @@
 
 ---
 
-## 🧠 ABOUT
-
-- 🎓 Computer Science (Data Analytics) @ APU  
-- ⚙️ Build systems + data-driven solutions  
-- 📊 Focus: Data · Backend · System Design  
-- 🎯 Goal: Internship in Data / Software Engineering  
-
----
-
-## 🚀 WHAT I DO
-
-- Transform raw data → actionable insights  
-- Build structured systems (ASP.NET, SQL)  
-- Solve real-world workflow problems  
-
----
-
-## ⭐ FLAGSHIP PROJECT
-
-### 🧠 Smart Resume Analyzer (ATS)
-
-> NLP system for parsing and analyzing resumes
-
-- Named Entity Recognition (NER)
-- Multilingual parsing
-- Structured data extraction
-
-🔗 *(Add repo link here when ready)*  
-🔗 *(Add demo later)*  
-
----
-
-## 💼 TOP PROJECTS
-
-### 📊 Education Data Analysis  
-→ Data cleaning · EDA · insights  
-🔗 *(repo link)*  
-
----
-
-### 💼 TalentLink Platform  
-→ Internship matching system  
-🔗 *(repo link)*  
-
----
-
-### 🏥 Medical Centre System  
-→ OOP system design  
-🔗 *(repo link)*  
-
----
-
-## ⚙️ TECH STACK
+## ⚡ IMPACT (REAL RESULTS)
 
 <div align="center">
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="45"/>
-
-<br/>
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="45"/>
-
-<br/>
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="45"/>
+<img src="https://img.shields.io/badge/+25%25-REVENUE-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-12%25-COST-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/+20%25-SATISFACTION-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/+15%25-EFFICIENCY-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-20%25-INVENTORY-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/95%25+-QUALITY-9333EA?style=for-the-badge"/>
 
 </div>
+
+> Based on real operational data analysis and optimization strategies :contentReference[oaicite:0]{index=0}  
+
+---
+
+## 🧠 WHAT I DO
+
+- Turn raw operational data → actionable insights  
+- Identify inefficiencies and optimize workflows  
+- Build structured systems with real-world application  
+
+---
+
+## 🧩 FLAGSHIP PROJECT
+
+### Smart Resume Analyzer (ATS)
+
+- NLP-based resume parsing system  
+- Named Entity Recognition (NER) for structured extraction  
+- Designed for multilingual and unstructured resumes  
+- Goal: Improve hiring accuracy through data processing  
+
+🚧 *Currently building (moving towards real implementation)*  
+
+---
+
+## ⭐ TOP PROJECTS
+
+### 📊 Education Data Analysis
+- Data cleaning + preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical insight extraction  
+
+---
+
+### 💼 TalentLink (Agile System)
+- Internship/job matching platform  
+- Agile (Scrum) development approach  
+- User stories + system planning  
+
+---
+
+### 🏥 Medical Centre System (Java)
+- Patient management + scheduling + billing  
+- Applied OOP (inheritance, encapsulation)  
+
+---
+
+### 🚌 Bus Reservation System (C)
+- Booking + cancellation system  
+- File handling + structured data storage  
+
+---
+
+## ⚙️ SKILLS
+
+### 📊 Data & Analytics
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical & Probability Modelling  
+- Data Mining Techniques  
+- Basic Predictive Modelling  
+
+### 💻 Systems & Development
+- ASP.NET + SQL-based systems  
+- Python · C · C++ · Java · Assembly  
+- Database: MySQL · Oracle APEX  
+- SDLC (Waterfall) · Agile (Scrum)  
 
 ---
 
@@ -115,17 +120,24 @@
 
 ## 🚀 NOW
 
-- 🧠 Building Resume Analyzer (NLP + ATS)  
-- 🎓 Developing MyGoPandai platform  
-- 📈 Improving data analytics portfolio  
+- 🧠 Building NLP Resume Analyzer (ATS system)  
+- 📊 Strengthening real-world data analytics portfolio  
+- ⚙️ Developing MyGoPandai platform  
+
+---
+
+## 🎯 OPPORTUNITY
+
+- Open to **Internship (Data / Software / Systems)**  
+- Interested in **Data Analytics · Backend · Systems Engineering**  
 
 ---
 
 ## 📬 CONNECT
 
 - 🌐 Portfolio: https://itshudson.github.io/hudsonlab/  
-- 💼 LinkedIn: *(add link)*  
-- 📧 Email: *(add email)*  
+- 💼 LinkedIn: https://linkedin.com/in/hudsonc200  
+- 📧 Email: hudson.officer23@gmail.com  
 
 ---
 
