@@ -10,14 +10,18 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DEVELOPMENT-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-PROBLEM%20SOLVING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-STRUCTURED%20PROBLEM%20SOLVING-7C3AED?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://itshudson.github.io/hudsonlab/">
 <img src="https://img.shields.io/badge/ENTER%20HUDSON%20LAB-VISIT%20PORTAL-1D4ED8?style=for-the-badge"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
@@ -38,14 +42,14 @@
 
 ENTITY      : HUDSON
 ROLE        : DATA ANALYTICS STUDENT
-ARCHETYPE   : SYSTEM BUILDER
+SPECIALTY   : SYSTEM DESIGN + STRUCTURED SOLUTIONS
 STATUS      : ONLINE
 MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 
-> primary mission:
-→ transform complexity into clarity
-→ convert ideas into structured systems
-→ build meaningful digital solutions
+> primary directive:
+→ transform raw data into structured, actionable insights  
+→ design systems that are clean, scalable, and maintainable  
+→ solve complex problems through logical decomposition  
 ```
 
 </td>
@@ -54,22 +58,20 @@ MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 ## ⚡ IDENTITY PANEL
 
 ```text
-[PRIMARY DOMAIN]
+[FOCUS AREA]
 → Data Analytics
 → System Development
-→ Structured Problem Solving
+→ Applied Problem Solving
 
-[WORK STYLE]
-→ clean logic
-→ organized structure
-→ practical workflow
-→ UI-aware technical thinking
+[APPROACH]
+→ structured thinking over ad-hoc solutions  
+→ clarity before complexity  
+→ modular and maintainable design  
 
-[OUTPUT GOAL]
-→ useful
-→ scalable
-→ functional
-→ meaningful
+[VALUE OUTPUT]
+→ clean system architecture  
+→ data-driven insights  
+→ practical and usable solutions  
 ```
 
 </td>
@@ -89,25 +91,25 @@ MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 <td align="center" width="25%">
 
 ## 📊 DATA ENGINE
-Exploring, cleaning, analyzing, and interpreting data to uncover patterns, relationships, and valuable insight.
+Transforming raw and unstructured data into meaningful insights through exploration, preprocessing, and analytical reasoning.
 
 </td>
 <td align="center" width="25%">
 
 ## ⚙️ SYSTEM ARCHITECTURE
-Building structured applications with clear modules, logical flow, maintainable design, and scalable foundation.
+Designing and developing structured applications with clear logic, organized modules, and scalable system flow.
 
 </td>
 <td align="center" width="25%">
 
 ## 🚀 OPTIMIZATION UNIT
-Improving workflow, efficiency, clarity, and digital performance through system thinking and analysis.
+Enhancing performance, efficiency, and clarity by analyzing workflows and refining system processes.
 
 </td>
 <td align="center" width="25%">
 
 ## 🧩 SOLUTION FRAMEWORK
-Breaking down complex problems into simple, practical, manageable, and real-world solutions.
+Decomposing complex problems into structured, manageable components and implementing practical solutions.
 
 </td>
 </tr>
@@ -134,10 +136,10 @@ Breaking down complex problems into simple, practical, manageable, and real-worl
 </div>
 
 ```text
-[SYSTEM FEED ] → OPERATIONAL INSIGHT ENABLED
-[ENGINE MODE ] → STRUCTURED ANALYSIS + DIGITAL BUILDING
+[SYSTEM FEED ] → DATA-DRIVEN DECISION SUPPORT ACTIVE
+[ENGINE MODE ] → ANALYTICAL THINKING + SYSTEM BUILDING
 [CONFIDENCE  ] → HIGH
-[OUTPUT FLOW ] → CLEAN / FUNCTIONAL / MEANINGFUL
+[OUTPUT FLOW ] → STRUCTURED / SCALABLE / FUNCTIONAL
 ```
 
 ---
@@ -155,7 +157,7 @@ Breaking down complex problems into simple, practical, manageable, and real-worl
 
 <br/><br/>
 
-## PROGRAMMING + LOGIC
+## PROGRAMMING + SYSTEM LOGIC
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#.png" width="42"/>
@@ -164,7 +166,7 @@ Breaking down complex problems into simple, practical, manageable, and real-worl
 
 <br/><br/>
 
-## WEB + SYSTEM DEVELOPMENT
+## WEB + APPLICATION DEVELOPMENT
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="42"/>
@@ -172,7 +174,7 @@ Breaking down complex problems into simple, practical, manageable, and real-worl
 
 <br/><br/>
 
-## TOOLS + ENVIRONMENT
+## TOOLS + DEVELOPMENT ENVIRONMENT
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="42"/>
@@ -215,29 +217,29 @@ Breaking down complex problems into simple, practical, manageable, and real-worl
 <tr>
 <td width="50%" valign="top">
 
-## 🔹 CURRENTLY RUNNING
+## 🔹 CURRENTLY DEVELOPING
 
 ```text
-[01] Resume Analyzer
-     → NLP + ATS workflow
+[01] NLP Resume Analyzer
+     → structured information extraction from unstructured resumes  
 
-[02] MyGoPandai
-     → structured learning system
+[02] MyGoPandai Learning System
+     → modular and scalable education platform  
 
-[03] Analytics Growth
-     → improving technical capability
+[03] Analytics Capability Expansion
+     → improving data processing and interpretation skills  
 ```
 
 </td>
 <td width="50%" valign="top">
 
-## 🔹 NEXT DEPLOYMENT
+## 🔹 NEXT PHASE
 
 ```text
-[01] real-world system launch
-[02] interactive dashboard build
-[03] stronger UI/UX presentation
-[04] cleaner digital architecture
+[01] deploy production-ready systems  
+[02] develop interactive analytics dashboards  
+[03] enhance UI/UX in technical projects  
+[04] strengthen system architecture design  
 ```
 
 </td>
@@ -269,11 +271,14 @@ Breaking down complex problems into simple, practical, manageable, and real-worl
 # ✦ FINAL SIGNAL
 
 ```text
-HUDSON INTERFACE ACTIVE
-BUILDING STRUCTURED SYSTEMS
-DELIVERING ANALYTICS + LOGIC + DIGITAL CLARITY
+THANK YOU FOR VISITING THE HUDSON INTERFACE  
+YOUR CONNECTION HAS BEEN REGISTERED  
+
+→ RETURN ANYTIME  
+→ SYSTEM ALWAYS EVOLVING  
+→ NEW MODULES ALWAYS LOADING  
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:93C5FD,30:3B82F6,65:1D4ED8,85:0F172A,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:93C5FD,30:3B82F6,65:1D4ED8,85:0F172A,100:020617&text=THANK%20YOU%20FOR%20VISITING&fontSize=34&fontColor=E2E8F0&fontAlignY=65" />
 
 </div>
