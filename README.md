@@ -1,119 +1,132 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05080F,40:0B1A33,100:2563EB&text=HUDSON%20SYSTEM&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=DATA%20·%20SYSTEMS%20·%20ANALYTICS&descSize=14&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030712,40:0B1A33,100:2563EB&text=HUDSON%20INTERFACE&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=SYSTEM%20INITIALIZATION&descSize=14&descAlignY=58" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Initializing+System...;Loading+Data+Modules...;Scanning+Operational+Signals...;Status:+ACTIVE" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Booting+System...;Loading+Data+Modules...;Establishing+Signal...;System+Status:+ONLINE" />
 
 </div>
 
 ---
 
-## ⚡ SYSTEM IDENTITY
+## 🧠 SYSTEM CORE
 
-```text
-ENTITY        : HUDSON
-ROLE          : DATA OPERATOR / SYSTEM BUILDER
-MODE          : ANALYZE · OPTIMIZE · BUILD
-STATUS        : ACTIVE
-MISSION       : Transform data into structured systems
+```bash
+> initializing entity...
+
+ENTITY      : HUDSON
+CLASS       : DATA OPERATOR
+ARCHETYPE   : SYSTEM BUILDER
+STATUS      : ONLINE
+MODE        : ANALYZE / OPTIMIZE / BUILD
+
+> mission loaded:
+→ transform raw data into structured systems
 ````
 
 ---
 
-## 📡 SYSTEM METRICS
+## 📡 LIVE METRICS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/+25%25-REVENUE-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-12%25-COST-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/+20%25-SATISFACTION-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/+15%25-EFFICIENCY-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/95%25+-QUALITY-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REVENUE-+25%25-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COST--12%25-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SATISFACTION-+20%25-2563EB?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/EFFICIENCY-+15%25-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INVENTORY--20%25-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QUALITY-95%25+-9333EA?style=for-the-badge"/>
 
 </div>
 
-```
-SOURCE: REAL OPERATIONAL DATA ANALYSIS
-CONFIDENCE: VERIFIED
+```text
+[DATA SOURCE] → REAL OPERATIONAL ANALYSIS
+[CONFIDENCE ] → HIGH
 ```
 
 ---
 
-## 🧠 CORE FUNCTION
+## ⚙️ CORE MODULES
 
 ```text
-[01] DATA ANALYSIS        → Extract patterns from real-world data
-[02] SYSTEM DESIGN        → Build structured, scalable systems
-[03] OPTIMIZATION         → Improve workflow & efficiency
+[01] DATA ENGINE
+     → EDA · Cleaning · Pattern Extraction
+
+[02] SYSTEM ARCHITECTURE
+     → ASP.NET · SQL · Structured Design
+
+[03] OPTIMIZATION UNIT
+     → Workflow Analysis · Efficiency Boost
 ```
 
 ---
 
-## 🧩 FLAGSHIP MODULE
+## 🧩 FLAGSHIP NODE
+
+```bash
+> loading module: ATS_RESUME_ANALYZER...
+
+STATUS      : IN DEVELOPMENT
+TYPE        : NLP SYSTEM
+PURPOSE     : resume parsing + structured extraction
+
+capabilities:
+- named entity recognition (NER)
+- multilingual parsing
+- unstructured → structured pipeline
+```
+
+---
+
+## 🌌 PROJECT MATRIX
 
 ```text
-MODULE        : ATS RESUME ANALYZER
-TYPE          : NLP SYSTEM
-STATUS        : IN DEVELOPMENT
-```
-
-```
-CAPABILITIES:
-- Named Entity Recognition (NER)
-- Multilingual Resume Parsing
-- Structured Data Extraction
-- Unstructured → Structured Transformation
-```
-
----
-
-## 🌐 PROJECT CONSTELLATION
-
-```
 [DATA NODE]
-→ Education Data Analysis (EDA · Statistics · Insights)
+→ Education Analysis (EDA / Statistical Insights)
 
 [SYSTEM NODE]
-→ TalentLink (Agile System · Matching Platform)
+→ TalentLink (Agile Platform / Matching System)
 
 [APPLICATION NODE]
-→ Medical Centre System (Java · OOP Architecture)
+→ Medical Centre (Java / OOP Architecture)
 
-[LOW-LEVEL NODE]
-→ Bus Reservation System (C · Memory & File Handling)
+[LOW LEVEL NODE]
+→ Bus System (C / Memory + File Handling)
 ```
 
 ---
 
-## ⚙️ TECH ARSENAL
+## 🧪 TECH ARSENAL
 
 <div align="center">
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="40"/>
 
 <br/>
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="40"/>
 
 <br/>
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="40"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="40"/>
 
 </div>
 
 ---
 
-## 📊 LIVE SYSTEM SIGNALS
+## 📊 SYSTEM TELEMETRY
 
 <div align="center">
 
@@ -122,23 +135,25 @@ CAPABILITIES:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=05080F&color=60A5FA&line=2563EB&point=E6F1FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=030712&color=60A5FA&line=2563EB&point=E6F1FF&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 SYSTEM STATUS
+## 🚀 CURRENT OPERATION
 
-```text
-CURRENT OPERATION:
-→ Building Resume Analyzer (NLP + ATS)
-→ Developing MyGoPandai Platform
-→ Expanding Data Analytics Capability
+```bash
+> scanning active tasks...
 
-NEXT TARGET:
-→ Real Data Dashboard
-→ Deployable System
+[ACTIVE]
+→ building resume analyzer (NLP + ATS)
+→ developing MyGoPandai system
+→ expanding analytics capability
+
+[NEXT]
+→ deploy real system
+→ build data dashboard
 ```
 
 ---
@@ -161,6 +176,6 @@ NEXT TARGET:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:0B1A33,100:05080F" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:0B1A33,100:030712" />
 
 </div>
