@@ -1,147 +1,161 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0B1A33,100:2563EB&text=HUDSON%20SYSTEM%20V3&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=NEURAL%20DATA%20INTERFACE&descSize=14&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:010409,40:0B1A33,100:2563EB&text=HUDSON%20INTERFACE%20V4&fontSize=52&fontColor=E6F1FF&fontAlignY=38&desc=AUTONOMOUS%20DATA%20SYSTEM&descSize=14&descAlignY=58" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=1800&pause=600&color=60A5FA&center=true&vCenter=true&width=750&lines=Booting+Core...;Loading+Neural+Modules...;Establishing+Data+Link...;Scanning+Environment...;System+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=1600&pause=500&color=60A5FA&center=true&vCenter=true&width=800&lines=Booting+Neural+Core...;Connecting+Data+Streams...;Analyzing+Environment...;Generating+Intelligence...;SYSTEM+ONLINE" />
+
+<br/>
+
+<!-- RADAR EFFECT -->
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ0F4c0Q1y/giphy.gif" width="120"/>
 
 </div>
 
 ---
 
-## 🧠 SYSTEM BOOT LOG
+## 🧠 SYSTEM KERNEL
 
 ```bash
-> boot sequence initialized...
+> boot log initialized...
 
-[ OK ] core loaded
-[ OK ] data engine online
-[ OK ] system modules connected
-[ OK ] signal link established
-
-> entity recognized...
+[ OK ] neural core online
+[ OK ] data pipeline active
+[ OK ] system modules synchronized
 
 ENTITY      : HUDSON
-TYPE        : DATA-DRIVEN SYSTEM
-ROLE        : ANALYST / BUILDER
-STATUS      : ONLINE
+TYPE        : AUTONOMOUS DATA SYSTEM
+ROLE        : ANALYTICS · SYSTEM ARCHITECT
+STATUS      : LIVE
 
-> mission directive:
-→ analyze → optimize → construct systems
+> directive:
+→ analyze → optimize → construct → evolve
 ````
 
 ---
 
-## 📡 LIVE DATA SCAN
+## 📡 AI DIAGNOSTIC OUTPUT
 
 ```bash
-> scanning operational dataset...
+> scanning operational patterns...
 
-pattern detected → customer_behavior
-optimization path → workflow_reduction
-signal strength → HIGH
+✔ anomaly detection complete
+✔ behavioral trends identified
+✔ optimization pathways generated
 
-> generating impact metrics...
+> predicted outcomes:
+
++ revenue increase detected (+25%)
++ efficiency optimization (+15%)
++ cost reduction (-12%)
++ system reliability (95%+)
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/+25%25-REVENUE-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-12%25-COST-EF4444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/+20%25-SATISFACTION-3B82F6?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/+15%25-EFFICIENCY-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-20%25-INVENTORY-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/95%25+-QUALITY-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REVENUE-+25%25-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EFFICIENCY-+15%25-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COST--12%25-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QUALITY-95%25+-A855F7?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## ⚙️ CORE SYSTEM MODULES
+## ⚙️ SYSTEM ARCHITECTURE
 
 ```text
-[ DATA ENGINE ]
-→ EDA · Statistical Analysis · Pattern Extraction
-
-[ SYSTEM BUILDER ]
-→ ASP.NET · SQL · Structured Architecture
-
-[ OPTIMIZATION UNIT ]
-→ Workflow Efficiency · Cost Reduction
+        ┌───────────────┐
+        │   DATA CORE   │
+        │───────────────│
+        │  EDA / Stats  │
+        │ Pattern Mining│
+        └──────┬────────┘
+               │
+     ┌─────────▼─────────┐
+     │ SYSTEM ENGINE     │
+     │ ASP.NET · SQL     │
+     └─────────┬─────────┘
+               │
+     ┌─────────▼─────────┐
+     │ OPTIMIZATION UNIT │
+     │ Workflow / Cost   │
+     └───────────────────┘
 ```
 
 ---
 
-## 🧩 FLAGSHIP NODE — ATS ENGINE
+## 🧩 FLAGSHIP — ATS NODE
 
 ```bash
-> loading module: resume_analyzer_v1...
+> loading module: resume_analyzer...
 
-TYPE        : NLP SYSTEM
+TYPE        : NLP ENGINE
 STATUS      : BUILDING
 PIPELINE    : UNSTRUCTURED → STRUCTURED
 
 features:
-+ NER (entity extraction)
++ NER extraction
 + multilingual parsing
-+ data normalization
++ semantic structuring
 ```
 
 ---
 
-## 🌌 PROJECT NETWORK (NODE MAP)
-
-```text
-      [ DATA NODE ]
-           │
-           ▼
-  Education Analysis
-           │
- ──────────┼──────────
-           │
-           ▼
-  TalentLink System ───► (MATCHING ENGINE)
-           │
-           ▼
- Medical System (OOP CORE)
-           │
-           ▼
-  Bus System (LOW-LEVEL CORE)
-```
-
----
-
-## 🧪 TECH MATRIX
+## 🌌 PROJECT NETWORK (INTERACTIVE NODES)
 
 <div align="center">
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="38"/>
+<a href="https://github.com/itsHudson">
+<img src="https://img.shields.io/badge/DATA%20NODE-EDA%20SYSTEM-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/itsHudson">
+<img src="https://img.shields.io/badge/SYSTEM%20NODE-TALENTLINK-1E3A6E?style=for-the-badge"/>
+</a>
 
 <br/>
 
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="38"/>
+<a href="https://github.com/itsHudson">
+<img src="https://img.shields.io/badge/APP%20NODE-MEDICAL%20SYSTEM-0EA5E9?style=for-the-badge"/>
+</a>
 
-<br/>
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="38"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="38"/>
+<a href="https://github.com/itsHudson">
+<img src="https://img.shields.io/badge/LOW%20LEVEL-C%20SYSTEM-9333EA?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 SYSTEM TELEMETRY
+## 🧪 TECH GRID
+
+<div align="center">
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="36"/>
+
+<br/>
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="36"/>
+
+<br/>
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="36"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="36"/>
+
+</div>
+
+---
+
+## 📊 LIVE TELEMETRY
 
 <div align="center">
 
@@ -150,26 +164,26 @@ features:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=020617&color=60A5FA&line=2563EB&point=E6F1FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=010409&color=60A5FA&line=2563EB&point=E6F1FF&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 ACTIVE OPERATIONS
+## 🚀 ACTIVE EXECUTION
 
 ```bash
-> monitoring tasks...
+> running processes...
 
 [ACTIVE]
-→ ATS Resume Analyzer
-→ MyGoPandai System
-→ Data Analytics Expansion
+→ ATS Analyzer Engine
+→ MyGoPandai Platform
+→ Data Intelligence Expansion
 
 [UPCOMING]
-→ deploy real system
+→ deploy system
 → build dashboard
-→ integrate data pipeline
+→ integrate ML pipeline
 ```
 
 ---
@@ -179,7 +193,7 @@ features:
 <div align="center">
 
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/ENTER%20INTERFACE-HUDSON%20LAB-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENTER%20SYSTEM-HUDSON%20LAB-2563EB?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -192,6 +206,6 @@ features:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:0B1A33,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:0B1A33,100:010409" />
 
 </div>
