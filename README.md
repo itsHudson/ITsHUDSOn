@@ -16,6 +16,14 @@
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=2563EB" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/itsHudson?style=for-the-badge&color=1E3A6E&labelColor=0D1F3C" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/itsHudson?style=for-the-badge&color=1E3A6E&labelColor=0D1F3C" alt="Stars" />
+
+<br/><br/>
+
 <a href="https://itshudson.github.io/hudsonlab/">
   <img src="https://img.shields.io/badge/ENTER-HUDSON%20LAB%20↗-1E3A6E?style=for-the-badge&labelColor=0D1F3C&color=1E3A6E&logo=googlechrome&logoColor=60A5FA" />
 </a>
@@ -27,6 +35,8 @@
 ## `// SIGNAL PROFILE`
 
 Computer Science undergraduate (Data Analytics) at APU, focused on building practical systems that combine **data analysis with software engineering**.
+
+From operational experience → to systems → to data-driven solutions.
 
 Experience includes delivering measurable operational impact:
 
@@ -44,13 +54,15 @@ Experience includes delivering measurable operational impact:
 
 ## `// FLAGSHIP SYSTEM`
 
-🧠 **Smart Resume Analyzer (ATS Prototype)**
+### 🧠 Smart Resume Analyzer (ATS Prototype)
+
+> Intelligent resume parsing system designed for real-world recruitment challenges
 
 * NLP-based resume parsing using Named Entity Recognition (NER)
 * Handles multilingual and unstructured resume formats
 * Improves candidate-job matching accuracy
 
-**Tech:** Python · NLP · BERT · Data Processing
+**Tech Stack:** Python · NLP · BERT · Data Processing
 
 ---
 
@@ -60,42 +72,39 @@ Experience includes delivering measurable operational impact:
 
 * Built modular attendance tracking and scheduling system
 * Designed structured data handling and record management
+* Improved workflow clarity for classroom operations
 
 **Tech:** Python · File I/O · Data Structures
-
----
 
 ### 🏥 APU Medical Centre System
 
 * Developed patient records, appointment and billing system using OOP
-* Improved system organization and data consistency
+* Improved organization of healthcare data and process flow
+* Strengthened system structure and maintainability
 
 **Tech:** Java · OOP · System Design
-
----
 
 ### 🚌 Bus Reservation System
 
 * Implemented booking system using arrays, pointers and file handling
-* Focused on low-level memory and logic control
+* Focused on low-level memory control and program logic
+* Strengthened understanding of structured C programming
 
 **Tech:** C · Pointers · File Handling
-
----
 
 ### 📊 Education Data Analysis
 
 * Performed data cleaning, transformation and exploratory analysis
-* Generated insights from structured datasets
+* Extracted meaningful insights from structured datasets
+* Improved understanding of performance trends
 
 **Tech:** SAS · Data Analysis
-
----
 
 ### 💼 APU TalentLink
 
 * Designed internship and job matching platform
-* Applied Agile development and system modularization
+* Applied Agile development and modular system planning
+* Improved understanding of real-world platform design
 
 **Tech:** ASP.NET · SQL Server
 
@@ -103,7 +112,7 @@ Experience includes delivering measurable operational impact:
 
 ## `// SYSTEM DESIGN`
 
-* Designed relational database structures (SQL Server)
+* Designed relational database structures using SQL Server
 * Applied normalization and ERD modelling
 * Built modular systems using ASP.NET Web Forms
 * Implemented validation and secure data handling
@@ -116,32 +125,32 @@ Experience includes delivering measurable operational impact:
 * Applied data cleaning, transformation and visualization
 * Extracted insights to support decision-making
 
-📊 Example Insight:
-“Performance improves when attendance exceeds key threshold levels”
+📊 **Example Insight**
+Performance improves when attendance exceeds key threshold levels.
 
 ---
 
 ## `// TECH STACK`
 
-**Core:**
+**Core**
 Python · SQL · R · SAS
 
-**Systems:**
+**Systems**
 C · C++ · Assembly
 
-**Web:**
+**Web**
 ASP.NET · HTML · CSS · JavaScript
 
-**Tools:**
+**Tools**
 Git · GitHub · Visual Studio · VS Code · Figma · SQL Server
 
 ---
 
 ## `// CURRENTLY BUILDING`
 
-* 🧠 Resume Parsing System (NLP + ATS)
-* 🎓 MyGoPandai Learning Platform
-* 🌐 HUDSON LAB Portfolio
+* 🧠 Resume Parsing System (NLP + ATS) — *In Progress*
+* 🎓 MyGoPandai Learning Platform — *System Design & Development*
+* 🌐 HUDSON LAB Portfolio — *Continuous Improvement*
 
 ---
 
@@ -151,7 +160,25 @@ Git · GitHub · Visual Studio · VS Code · Figma · SQL Server
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&theme=transparent&hide_border=true&border_radius=10&title_color=60A5FA&icon_color=3B82F6&text_color=8BA3C0&bg_color=0D1F3C" width="48%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.vercel.app?user=itsHudson&theme=transparent&hide_border=true&border_radius=10&ring=2563EB&fire=60A5FA&currStreakLabel=8BA3C0&sideLabels=8BA3C0&currStreakNum=EDF2FF&sideNums=EDF2FF&dates=4A6080&background=0D1F3C" width="48%" />
+<img src="https://streak-stats.demolab.com?user=itsHudson&theme=transparent&hide_border=true&border_radius=10&ring=2563EB&fire=60A5FA&currStreakLabel=8BA3C0&sideLabels=8BA3C0&currStreakNum=EDF2FF&sideNums=EDF2FF&dates=4A6080&background=0D1F3C" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=0D1F3C&color=8BA3C0&line=2563EB&point=60A5FA&hide_border=true&custom_title=HUDSON%20Activity%20Graph&title_color=60A5FA" width="95%" />
+
+</div>
+
+---
+
+## `// CONTRIBUTION STREAM`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -159,7 +186,7 @@ Git · GitHub · Visual Studio · VS Code · Figma · SQL Server
 
 ## `// MISSION CONTROL`
 
-```
+```text
 ┌─────────────────────────────────────────────────────────┐
 │  STATUS    →  Open to internship opportunities          │
 │  FOCUS     →  Data analytics · Systems · Development    │
@@ -171,6 +198,12 @@ Git · GitHub · Visual Studio · VS Code · Figma · SQL Server
 
 ---
 
+## `// PHILOSOPHY`
+
+> Build practical systems. Learn continuously. Improve with purpose.
+
+---
+
 ## `// OPPORTUNITY`
 
 Actively seeking internship opportunities in:
@@ -179,7 +212,7 @@ Actively seeking internship opportunities in:
 * Software Development
 * Systems Engineering
 
-📩 Open to collaboration and real-world problem solving
+📩 Open to collaboration and real-world problem solving.
 
 ---
 
