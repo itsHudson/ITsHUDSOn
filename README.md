@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:0B1A33,80:1d4ed8,100:60A5FA&text=HUDSON%20AI%20INTERFACE&fontSize=50&fontColor=E6F1FF&fontAlignY=38&desc=DATA%20SYSTEM%20·%20MISSION%20CONTROL&descSize=14&descAlignY=58" />
@@ -207,4 +206,3 @@ NEXT:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:60A5FA,50:1d4ed8,100:020617" />
 
 </div>
-```
