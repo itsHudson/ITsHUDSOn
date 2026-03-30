@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1220,100:1E3A8A&text=HUDSON%20SYSTEM%20ENGINEERING&fontSize=42&fontColor=E2E8F0&fontAlignY=55"/>
@@ -196,4 +195,3 @@ NEXT:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:1E3A8A,100:0B1220"/>
 
 </div>
-```
