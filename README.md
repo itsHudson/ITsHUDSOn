@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:1D4ED8,100:60A5FA&text=HUDSON%20INTERFACE&fontSize=56&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20•%20SYSTEM%20DEVELOPMENT%20•%20DIGITAL%20ARCHITECTURE&descSize=15&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0F172A,55:1D4ED8,80:3B82F6,100:93C5FD&text=HUDSON%20INTERFACE&fontSize=58&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20•%20SYSTEM%20DEVELOPMENT%20•%20DIGITAL%20ARCHITECTURE&descSize=16&descAlignY=58" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=700&color=93C5FD&center=true&vCenter=true&width=780&lines=Initializing+Hudson+Interface...;Loading+Analytics+Modules...;Building+Structured+Systems...;System+Status:+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=700&color=BFDBFE&center=true&vCenter=true&width=820&lines=Initializing+Hudson+Interface...;Loading+Analytics+Modules...;Activating+System+Architecture...;Status:+ONLINE" />
 
 <br/><br/>
 
@@ -25,18 +25,16 @@
 
 <div align="center">
 
-## ✦ SYSTEM DASHBOARD
-
-</div>
+# ✦ CENTRAL COMMAND
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-### 🧠 CORE PROFILE
+## 🧠 SYSTEM CORE
 
 ```bash
-> initializing entity...
+> boot sequence started...
 
 ENTITY      : HUDSON
 ROLE        : DATA ANALYTICS STUDENT
@@ -44,63 +42,35 @@ ARCHETYPE   : SYSTEM BUILDER
 STATUS      : ONLINE
 MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 
-> mission loaded:
+> primary mission:
 → transform complexity into clarity
-→ turn ideas into structured systems
+→ convert ideas into structured systems
+→ build meaningful digital solutions
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ IDENTITY PANEL
+## ⚡ IDENTITY PANEL
 
 ```text
-[DOMAIN]
+[PRIMARY DOMAIN]
 → Data Analytics
 → System Development
 → Structured Problem Solving
 
-[STYLE]
+[WORK STYLE]
 → clean logic
 → organized structure
 → practical workflow
-→ UI-aware thinking
+→ UI-aware technical thinking
+
+[OUTPUT GOAL]
+→ useful
+→ scalable
+→ functional
+→ meaningful
 ```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ✦ OPERATIONAL OVERVIEW
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 📊 DATA
-Exploring, cleaning, and interpreting data to uncover patterns and useful insights.
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️ SYSTEM
-Building structured applications with clear modules, organized logic, and scalable flow.
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 OPTIMIZATION
-Improving workflow, efficiency, and clarity through system thinking and analysis.
-
-</td>
-<td align="center" width="25%">
-
-### 🧩 SOLVING
-Breaking complex tasks into simple, practical, and manageable solutions.
 
 </td>
 </tr>
@@ -112,7 +82,44 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <div align="center">
 
-## ✦ LIVE PERFORMANCE
+# ✦ OPERATIONAL GRID
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+## 📊 DATA ENGINE
+Exploring, cleaning, analyzing, and interpreting data to uncover patterns, relationships, and valuable insight.
+
+</td>
+<td align="center" width="25%">
+
+## ⚙️ SYSTEM ARCHITECTURE
+Building structured applications with clear modules, logical flow, maintainable design, and scalable foundation.
+
+</td>
+<td align="center" width="25%">
+
+## 🚀 OPTIMIZATION UNIT
+Improving workflow, efficiency, clarity, and digital performance through system thinking and analysis.
+
+</td>
+<td align="center" width="25%">
+
+## 🧩 SOLUTION FRAMEWORK
+Breaking down complex problems into simple, practical, manageable, and real-world solutions.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ LIVE PERFORMANCE MATRIX
 
 <img src="https://img.shields.io/badge/REVENUE-+25%25-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/COST--12%25-DC2626?style=for-the-badge"/>
@@ -137,9 +144,9 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <div align="center">
 
-## ✦ TECHNOLOGY MATRIX
+# ✦ TECHNOLOGY MATRIX
 
-### ANALYTICS + DATA
+## ANALYTICS + DATA
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="42"/>
@@ -148,7 +155,7 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <br/><br/>
 
-### PROGRAMMING + LOGIC
+## PROGRAMMING + LOGIC
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#.png" width="42"/>
@@ -157,7 +164,7 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <br/><br/>
 
-### WEB + SYSTEM DEVELOPMENT
+## WEB + SYSTEM DEVELOPMENT
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="42"/>
@@ -165,7 +172,7 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <br/><br/>
 
-### TOOLS + ENVIRONMENT
+## TOOLS + ENVIRONMENT
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="42"/>
@@ -177,7 +184,7 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <br/><br/>
 
-### OPERATING SYSTEMS
+## OPERATING SYSTEMS
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Ubuntu.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Rocky.png" width="42"/>
 
@@ -187,14 +194,14 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <div align="center">
 
-## ✦ SYSTEM TELEMETRY
+# ✦ VISUAL TELEMETRY
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=transparent" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=020617&color=93C5FD&line=2563EB&point=E2E8F0&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=020617&color=BFDBFE&line=3B82F6&point=E2E8F0&hide_border=true"/>
 
 </div>
 
@@ -202,15 +209,13 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <div align="center">
 
-## ✦ ACTIVE OPERATIONS
-
-</div>
+# ✦ ACTIVE OPERATIONS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 CURRENTLY RUNNING
+## 🔹 CURRENTLY RUNNING
 
 ```text
 [01] Resume Analyzer
@@ -220,13 +225,13 @@ Breaking complex tasks into simple, practical, and manageable solutions.
      → structured learning system
 
 [03] Analytics Growth
-     → improving data capability
+     → improving technical capability
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 NEXT DEPLOYMENT
+## 🔹 NEXT DEPLOYMENT
 
 ```text
 [01] real-world system launch
@@ -239,11 +244,13 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## ✦ ACCESS PORTAL
+# ✦ ACCESS PORTAL
 
 <a href="https://itshudson.github.io/hudsonlab/">
 <img src="https://img.shields.io/badge/ENTER%20SYSTEM-HUDSON%20LAB-2563EB?style=for-the-badge"/>
@@ -259,7 +266,7 @@ Breaking complex tasks into simple, practical, and manageable solutions.
 
 <div align="center">
 
-## ✦ FINAL SIGNAL
+# ✦ FINAL SIGNAL
 
 ```text
 HUDSON INTERFACE ACTIVE
@@ -267,6 +274,6 @@ BUILDING STRUCTURED SYSTEMS
 DELIVERING ANALYTICS + LOGIC + DIGITAL CLARITY
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:60A5FA,40:2563EB,75:0F172A,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:93C5FD,30:3B82F6,65:1D4ED8,85:0F172A,100:020617" />
 
 </div>
