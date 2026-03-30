@@ -1,22 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0F172A,55:1D4ED8,80:3B82F6,100:93C5FD&text=HUDSON%20INTERFACE&fontSize=58&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20•%20SYSTEM%20DEVELOPMENT%20•%20DIGITAL%20ARCHITECTURE&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,65:1D4ED8,100:60A5FA&text=HUDSON%20INTERFACE&fontSize=58&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20•%20SYSTEM%20DESIGN%20•%20DIGITAL%20ARCHITECTURE&descSize=16&descAlignY=58" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=700&color=BFDBFE&center=true&vCenter=true&width=820&lines=Initializing+Hudson+Interface...;Loading+Analytics+Modules...;Activating+System+Architecture...;Status:+ONLINE" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-STRUCTURED%20PROBLEM%20SOLVING-7C3AED?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=700&color=BFDBFE&center=true&vCenter=true&width=820&lines=Initializing+Hudson+Interface...;Loading+Analytics+Modules...;Building+Structured+Systems...;System+Status:+ONLINE" />
 
 <br/><br/>
 
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/ENTER%20HUDSON%20LAB-VISIT%20PORTAL-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENTER%20HUDSON%20LAB-ACCESS%20PORTAL-1D4ED8?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -29,49 +22,34 @@
 
 <div align="center">
 
-# ✦ CENTRAL COMMAND
+# ✦ CORE PROFILE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🧠 SYSTEM CORE
-
 ```bash
-> boot sequence started...
-
 ENTITY      : HUDSON
 ROLE        : DATA ANALYTICS STUDENT
 SPECIALTY   : SYSTEM DESIGN + STRUCTURED SOLUTIONS
-STATUS      : ONLINE
-MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 
-> primary directive:
-→ transform raw data into structured, actionable insights  
-→ design systems that are clean, scalable, and maintainable  
-→ solve complex problems through logical decomposition  
+MISSION     : transform complexity into clarity  
+              build systems that are clean, scalable, and useful  
 ```
 
 </td>
 <td width="50%" valign="top">
 
-## ⚡ IDENTITY PANEL
-
 ```text
-[FOCUS AREA]
-→ Data Analytics
-→ System Development
-→ Applied Problem Solving
+FOCUS AREA
+→ Data Analytics  
+→ System Development  
+→ Problem Solving  
 
-[APPROACH]
-→ structured thinking over ad-hoc solutions  
-→ clarity before complexity  
-→ modular and maintainable design  
-
-[VALUE OUTPUT]
-→ clean system architecture  
-→ data-driven insights  
-→ practical and usable solutions  
+APPROACH
+→ structured thinking  
+→ clarity over complexity  
+→ modular system design  
 ```
 
 </td>
@@ -84,32 +62,32 @@ MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 
 <div align="center">
 
-# ✦ OPERATIONAL GRID
+# ✦ CAPABILITY MATRIX
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-## 📊 DATA ENGINE
-Transforming raw and unstructured data into meaningful insights through exploration, preprocessing, and analytical reasoning.
+### 📊 DATA
+Turning raw data into structured insights through analysis, cleaning, and interpretation.
 
 </td>
 <td align="center" width="25%">
 
-## ⚙️ SYSTEM ARCHITECTURE
-Designing and developing structured applications with clear logic, organized modules, and scalable system flow.
+### ⚙️ SYSTEM
+Designing applications with clear logic, modular architecture, and scalable flow.
 
 </td>
 <td align="center" width="25%">
 
-## 🚀 OPTIMIZATION UNIT
-Enhancing performance, efficiency, and clarity by analyzing workflows and refining system processes.
+### 🚀 OPTIMIZE
+Improving workflows, efficiency, and clarity through structured evaluation.
 
 </td>
 <td align="center" width="25%">
 
-## 🧩 SOLUTION FRAMEWORK
-Decomposing complex problems into structured, manageable components and implementing practical solutions.
+### 🧩 SOLVE
+Breaking down complex problems into simple, practical solutions.
 
 </td>
 </tr>
@@ -121,34 +99,8 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <div align="center">
 
-# ✦ LIVE PERFORMANCE MATRIX
+# ✦ TECH STACK
 
-<img src="https://img.shields.io/badge/REVENUE-+25%25-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COST--12%25-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SATISFACTION-+20%25-2563EB?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/EFFICIENCY-+15%25-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INVENTORY--20%25-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QUALITY-95%25+-9333EA?style=for-the-badge"/>
-
-</div>
-
-```text
-[SYSTEM FEED ] → DATA-DRIVEN DECISION SUPPORT ACTIVE
-[ENGINE MODE ] → ANALYTICAL THINKING + SYSTEM BUILDING
-[CONFIDENCE  ] → HIGH
-[OUTPUT FLOW ] → STRUCTURED / SCALABLE / FUNCTIONAL
-```
-
----
-
-<div align="center">
-
-# ✦ TECHNOLOGY MATRIX
-
-## ANALYTICS + DATA
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="42"/>
@@ -157,7 +109,6 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <br/><br/>
 
-## PROGRAMMING + SYSTEM LOGIC
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#.png" width="42"/>
@@ -166,7 +117,6 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <br/><br/>
 
-## WEB + APPLICATION DEVELOPMENT
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="42"/>
@@ -174,7 +124,6 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <br/><br/>
 
-## TOOLS + DEVELOPMENT ENVIRONMENT
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="42"/>
@@ -186,7 +135,6 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <br/><br/>
 
-## OPERATING SYSTEMS
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Ubuntu.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Rocky.png" width="42"/>
 
@@ -196,7 +144,7 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <div align="center">
 
-# ✦ VISUAL TELEMETRY
+# ✦ SYSTEM TELEMETRY
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=transparent" width="48%"/>
@@ -211,56 +159,13 @@ Decomposing complex problems into structured, manageable components and implemen
 
 <div align="center">
 
-# ✦ ACTIVE OPERATIONS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🔹 CURRENTLY DEVELOPING
+# ✦ CURRENT FOCUS
 
 ```text
-[01] NLP Resume Analyzer
-     → structured information extraction from unstructured resumes  
-
-[02] MyGoPandai Learning System
-     → modular and scalable education platform  
-
-[03] Analytics Capability Expansion
-     → improving data processing and interpretation skills  
+→ developing NLP-based resume analyzer  
+→ building structured learning system (MyGoPandai)  
+→ strengthening analytics + system design capability  
 ```
-
-</td>
-<td width="50%" valign="top">
-
-## 🔹 NEXT PHASE
-
-```text
-[01] deploy production-ready systems  
-[02] develop interactive analytics dashboards  
-[03] enhance UI/UX in technical projects  
-[04] strengthen system architecture design  
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# ✦ ACCESS PORTAL
-
-<a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/ENTER%20SYSTEM-HUDSON%20LAB-2563EB?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
@@ -271,14 +176,13 @@ Decomposing complex problems into structured, manageable components and implemen
 # ✦ FINAL SIGNAL
 
 ```text
-THANK YOU FOR VISITING THE HUDSON INTERFACE  
-YOUR CONNECTION HAS BEEN REGISTERED  
+THANK YOU FOR VISITING  
+HUDSON INTERFACE ACTIVE  
 
-→ RETURN ANYTIME  
-→ SYSTEM ALWAYS EVOLVING  
+→ SYSTEM CONTINUES TO EVOLVE  
 → NEW MODULES ALWAYS LOADING  
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:93C5FD,30:3B82F6,65:1D4ED8,85:0F172A,100:020617&text=THANK%20YOU%20FOR%20VISITING&fontSize=34&fontColor=E2E8F0&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:60A5FA,40:2563EB,70:1D4ED8,100:020617&text=THANK%20YOU%20FOR%20VISITING&fontSize=34&fontColor=E2E8F0&fontAlignY=65" />
 
 </div>
