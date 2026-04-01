@@ -1,4 +1,4 @@
-name: Generate Pac-Man Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -12,23 +12,21 @@ permissions:
   contents: write
 
 concurrency:
-  group: pacman-animation-${{ github.ref }}
+  group: pacman-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   generate:
-    name: Build and publish Pac-Man contribution graph
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Generate Pac-Man SVGs
-        # Replace @main with a pinned commit SHA for better security
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Publish generated files to output branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
