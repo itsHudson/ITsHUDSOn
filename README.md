@@ -47,9 +47,9 @@ STATUS      : ONLINE
 MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 
 > primary directive:
-→ transform raw data into actionable insight  
-→ design clean and scalable systems  
-→ solve complex problems through structured thinking  
+→ transform raw data into actionable insight
+→ design clean and scalable systems
+→ solve complex problems through structured thinking
 ```
 
 </td>
@@ -64,14 +64,14 @@ MODE        : ANALYZE / DESIGN / BUILD / OPTIMIZE
 → Applied Problem Solving
 
 [APPROACH]
-→ clarity before complexity  
-→ structured over ad-hoc  
-→ modular and maintainable design  
+→ clarity before complexity
+→ structured over ad-hoc
+→ modular and maintainable design
 
 [VALUE OUTPUT]
-→ clean system architecture  
-→ data-driven insights  
-→ practical, usable solutions  
+→ clean system architecture
+→ data-driven insights
+→ practical, usable solutions
 ```
 
 </td>
@@ -221,13 +221,13 @@ Breaking complex problems into structured components and implementing practical 
 
 ```text
 [01] NLP Resume Analyzer
-     → structured extraction from unstructured resume data  
+     → structured extraction from unstructured resume data
 
 [02] MyGoPandai Learning System
-     → modular and scalable education platform  
+     → modular and scalable education platform
 
 [03] Analytics Development
-     → strengthening data processing and interpretation  
+     → strengthening data processing and interpretation
 ```
 
 </td>
@@ -236,10 +236,10 @@ Breaking complex problems into structured components and implementing practical 
 ## 🔹 NEXT PHASE
 
 ```text
-[01] deploy production-ready systems  
-[02] develop interactive dashboards  
-[03] improve UI/UX in technical solutions  
-[04] refine system architecture practices  
+[01] deploy production-ready systems
+[02] develop interactive dashboards
+[03] improve UI/UX in technical solutions
+[04] refine system architecture practices
 ```
 
 </td>
@@ -276,22 +276,23 @@ Thank you for visiting.
 This interface reflects an ongoing journey in building structured systems,
 where data, logic, and design come together to create meaningful solutions.
 
-→ always learning  
-→ always improving  
-→ always building  
+→ always learning
+→ always improving
+→ always building
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:93C5FD,30:3B82F6,65:1D4ED8,85:0F172A,100:020617&text=THANK%20YOU%20FOR%20VISITING&fontSize=34&fontColor=E2E8F0&fontAlignY=65" />
 
-<img src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+
 </div>
