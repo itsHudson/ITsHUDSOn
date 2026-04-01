@@ -283,14 +283,15 @@ where data, logic, and design come together to create meaningful solutions.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:93C5FD,30:3B82F6,65:1D4ED8,85:0F172A,100:020617&text=THANK%20YOU%20FOR%20VISITING&fontSize=34&fontColor=E2E8F0&fontAlignY=65" />
 
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<img src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/snake.svg" alt="Snake animation" />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsHudson/itsHudson/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/itsHudson/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
