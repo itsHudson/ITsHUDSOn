@@ -160,7 +160,7 @@ Breaking complex problems into structured components and implementing practical 
 ## PROGRAMMING + SYSTEM LOGIC
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="42"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#%23.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="42"/>
 <img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Java.png" width="42"/>
 
