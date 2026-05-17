@@ -33,7 +33,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <th width="20%">PROGRAMMING</th>
 <th width="20%">WEB DEVELOPMENT</th>
 <th width="20%">DATA & ANALYTICS</th>
-<th width="20%">DEV TOOLS</th>
+<th width="20%">TOOLS & PLATFORMS</th>
 <th width="20%">LINUX DISTRIBUTIONS</th>
 </tr>
 
@@ -64,6 +64,12 @@ Passionate about building systems, analyzing data, and creating solutions that d
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="65"/><br>Python
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="65"/><br>R Programming
 </td>
 </tr>
 </table>
@@ -107,14 +113,11 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="65"/><br>MySQL
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="65"/><br>R Programming
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="65"/><br>SAS
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="65"/><br>SAS
-</td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="65"/><br>Microsoft SQL Server
 </td>
@@ -126,28 +129,28 @@ Passionate about building systems, analyzing data, and creating solutions that d
 
 </td>
 
-<!-- DEV TOOLS -->
+<!-- TOOLS -->
 <td align="center" valign="top">
 
 <table>
 <tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="65"/><br>Apache NetBeans
+</td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="65"/><br>Code::Blocks
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="65"/><br>Figma
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="65"/><br>Git
-</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="65"/><br>GitHub
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="65"/><br>Git
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="65"/><br>Apache NetBeans
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="65"/><br>GitHub
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="65"/><br>Slack
