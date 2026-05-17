@@ -34,7 +34,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <th width="20%">WEB DEVELOPMENT</th>
 <th width="20%">DATA & ANALYTICS</th>
 <th width="20%">DEV TOOLS</th>
-<th width="20%">OPERATING SYSTEMS</th>
+<th width="20%">LINUX DISTRIBUTIONS</th>
 </tr>
 
 <tr>
@@ -166,7 +166,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 
 </td>
 
-<!-- OPERATING SYSTEMS -->
+<!-- LINUX DISTRIBUTIONS -->
 <td align="center" valign="top">
 
 <table>
