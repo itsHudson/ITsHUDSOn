@@ -290,7 +290,6 @@ where data, logic, and design come together to create meaningful solutions.
 
 ###
 
-###
 
 
 <picture>
