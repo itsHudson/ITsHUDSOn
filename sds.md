@@ -1,189 +1,242 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:1D4ED8,75:3B82F6,100:93C5FD&text=HUDSON&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ANALYTICS%20•%20SYSTEM%20ARCHITECTURE%20•%20PRODUCT%20DEVELOPMENT&descSize=18&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8FAFC,35:E2E8F0,70:CBD5E1,100:94A3B8&text=Hudson&fontSize=72&fontColor=0F172A&fontAlignY=38&desc=Data%20Analytics%20%7C%20System%20Development%20%7C%20Digital%20Solutions&descSize=17&descAlignY=58" />
 
 <br/>
 
-<h3>Building systems that transform complexity into clarity.</h3>
+# Hudson
 
-<p>
-Data Analytics • Software Engineering • Scalable Architecture • Problem Solving
-</p>
+### Designing clean systems. Turning data into practical insight.
 
 <br/>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-INNOVATION-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-7C3AED?style=for-the-badge"/>
-
-<br/><br/>
 
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-HUDSON%20LAB-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hudson%20Lab-Visit%20Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsHudson&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-64748B?style=flat-square"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 # About Me
 
-```yaml
-name: Hudson
-role: Data Analytics Student
+</div>
 
-specialization:
-  - Data Analytics
-  - System Development
-  - Product Design
-  - Scalable Architecture
+<table>
+<tr>
+<td width="50%" valign="top">
 
-philosophy:
-  - Clarity before complexity
-  - Structured systems over messy workflows
-  - Build solutions that scale
+## Focus
+
+```text
+Data Analytics
+System Development
+Problem Solving
 ```
 
----
+I enjoy transforming raw data into meaningful insights and building structured systems that solve real-world problems.
 
-# Core Expertise
+</td>
+<td width="50%" valign="top">
 
-| Domain | Description |
-|---------|-------------|
-| Data Analytics | Transform raw datasets into meaningful business insights |
-| System Development | Build structured and scalable applications |
-| Problem Solving | Break complex issues into practical solutions |
-| Architecture Design | Design maintainable modular systems |
-| Optimization | Improve workflows and system efficiency |
+## Philosophy
 
----
+```text
+Clarity before complexity
+Structure before scale
+Practicality before decoration
+```
 
-# Featured Projects
+I believe great systems should be clean, scalable, and easy to maintain.
 
-## NLP Resume Analyzer
-
-Extract structured information from unstructured resumes using NLP techniques.
-
-**Tech Stack:**  
-Python • NLP • Data Processing
+</td>
+</tr>
+</table>
 
 ---
-
-## MyGoPandai Learning Platform
-
-A scalable educational platform built with modular architecture principles.
-
-**Tech Stack:**  
-Java • Database Systems • UI Design
-
----
-
-## Analytics Dashboard Development
-
-Transforms operational data into actionable decision-making dashboards.
-
-**Tech Stack:**  
-SQL • Python • Data Visualization
-
----
-
-# Tech Stack
-
-## Data & Analytics
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_MySQL.png" width="45"/>
-
----
-
-## Software Development
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Java.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#%23.png" width="45"/>
-
----
-
-## Web Development
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="45"/>
-
----
-
-## Tools & Environment
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudioCode.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Figma.png" width="45"/>
-
----
-
-## Operating Systems
-
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Ubuntu.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Rocky.png" width="45"/>
-
----
-
-# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+# Core Expertise
 
-<img src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=transparent" width="48%"/>
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+## Data
+
+Transforming raw information into useful insights through analytics.
+
+</td>
+
+<td width="25%" align="center">
+
+## Systems
+
+Building scalable applications with clean architecture.
+
+</td>
+
+<td width="25%" align="center">
+
+## Optimization
+
+Improving workflows and system performance.
+
+</td>
+
+<td width="25%" align="center">
+
+## Solutions
+
+Breaking complex problems into manageable systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# Technology Stack
+
+### Analytics & Data
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_MySQL.png" width="42"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=020617&color=BFDBFE&line=3B82F6&point=E2E8F0&hide_border=true"/>
+### Programming
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#%23.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Java.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="42"/>
+
+<br/><br/>
+
+### Web Development
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="42"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudioCode.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Figma.png" width="42"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Slack.png" width="42"/>
 
 </div>
 
 ---
 
-# Current Focus
+<div align="center">
+
+# Current Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Building
 
 ```text
-[01] Building production-ready systems
-[02] Strengthening data engineering workflows
-[03] Creating scalable applications
-[04] Improving UI/UX design thinking
-[05] Expanding product development capabilities
+NLP Resume Analyzer
+MyGoPandai Learning Platform
+Analytics Projects
 ```
 
----
+</td>
 
-# Connect
+<td width="50%" valign="top">
 
-### Portfolio
-https://itshudson.github.io/hudsonlab/
+## Improving
 
-### GitHub
-https://github.com/itsHudson
+```text
+Dashboard Design
+System Architecture
+UI/UX Design
+Data Interpretation
+```
 
-### Mission
-
-> Build with structure.  
-> Scale with clarity.  
-> Deliver meaningful solutions.
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:93C5FD,40:3B82F6,75:1D4ED8,100:020617&text=THANK%20YOU&fontSize=32&fontColor=FFFFFF&fontAlignY=65"/>
+# GitHub Analytics
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&hide_border=true&theme=default" 
+width="48%"/>
+
+<img 
+src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=default" 
+width="48%"/>
+
+<br/><br/>
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=ffffff&color=334155&line=0F172A&point=64748B&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Portfolio
+
+<a href="https://itshudson.github.io/hudsonlab/">
+<img src="https://img.shields.io/badge/Open%20Hudson%20Lab-0F172A?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsHudson&style=flat-square&color=64748B"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Final Note
+
+```text
+Always learning.
+Always improving.
+Always building with purpose.
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:94A3B8,35:CBD5E1,70:E2E8F0,100:F8FAFC&fontColor=0F172A" />
 
 </div>
