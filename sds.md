@@ -101,13 +101,13 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="65"/><br>BigQuery
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="65"/><br>Google BigQuery
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="65"/><br>MySQL
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="65"/><br>R
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="65"/><br>R Programming
 </td>
 </tr>
 
@@ -116,7 +116,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="65"/><br>SAS
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="65"/><br>SQL Server
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="65"/><br>Microsoft SQL Server
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ThoughtSpot.png" width="65"/><br>ThoughtSpot
