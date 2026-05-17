@@ -42,7 +42,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <!-- PROGRAMMING -->
 <td align="center" valign="top">
 
-<table>
+<table style="border:none; background:transparent;">
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="65"/><br>Python
