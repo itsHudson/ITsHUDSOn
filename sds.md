@@ -42,144 +42,101 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <!-- PROGRAMMING -->
 <td align="center" valign="top">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="65"/><br>Python
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Java.png" width="65"/><br>Java
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C.png" width="65"/><br>C
-</td>
-</tr>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Java.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C.png" width="65"/>
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="65"/><br>C++
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSharp.png" width="65"/><br>C#
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="65"/><br>Assembly
-</td>
-</tr>
-</table>
+<br>
+Python &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; C
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="65"/>
+
+<br>
+C++ &nbsp;&nbsp;&nbsp; C# &nbsp;&nbsp;&nbsp; Assembly
 
 </td>
 
-<!-- WEB -->
+<!-- WEB DEVELOPMENT -->
 <td align="center" valign="top">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_HTML5.png" width="65"/><br>HTML5
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSS3.png" width="65"/><br>CSS3
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_JavaScript.png" width="65"/><br>JavaScript
-</td>
-</tr>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_HTML5.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSS3.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_JavaScript.png" width="65"/>
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="65"/><br>ASP.NET
-</td>
-</tr>
-</table>
+<br>
+HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; JavaScript
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="65"/>
+
+<br>
+ASP.NET
 
 </td>
 
 <!-- DATA -->
 <td align="center" valign="top">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="65"/><br>MySQL
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="65"/><br>SQL Server
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="65"/><br>R
-</td>
-</tr>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="65"/>
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="65"/><br>SAS
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ThoughtSpot.png" width="65"/><br>ThoughtSpot
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="65"/><br>BigQuery
-</td>
-</tr>
-</table>
+<br>
+MySQL &nbsp;&nbsp;&nbsp; SQL Server &nbsp;&nbsp;&nbsp; R
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ThoughtSpot.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="65"/>
+
+<br>
+SAS &nbsp;&nbsp;&nbsp; ThoughtSpot &nbsp;&nbsp;&nbsp; BigQuery
 
 </td>
 
 <!-- DEV TOOLS -->
 <td align="center" valign="top">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="65"/><br>Git
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="65"/><br>GitHub
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudio.png" width="65"/><br>Visual Studio
-</td>
-</tr>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudio.png" width="65"/>
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudioCode.png" width="65"/><br>VS Code
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="65"/><br>NetBeans
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="65"/><br>CodeBlocks
-</td>
-</tr>
+<br>
+Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; Visual Studio
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="65"/><br>Figma
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="65"/><br>Slack
-</td>
-</tr>
-</table>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudioCode.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="65"/>
+
+<br>
+VS Code &nbsp;&nbsp;&nbsp; NetBeans &nbsp;&nbsp;&nbsp; CodeBlocks
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="65"/>
+
+<br>
+Figma &nbsp;&nbsp;&nbsp; Slack
 
 </td>
 
 <!-- OPERATING SYSTEMS -->
 <td align="center" valign="top">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="65"/><br>Ubuntu
-</td>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="65"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="65"/>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="65"/><br>Rocky Linux
-</td>
-</tr>
-</table>
+<br>
+Ubuntu &nbsp;&nbsp;&nbsp; Rocky Linux
 
 </td>
 
