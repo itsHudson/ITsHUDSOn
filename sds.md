@@ -211,11 +211,5 @@ I enjoy turning ideas into scalable solutions across analytics, automation, mach
 
 ## BUILD • ANALYZE • OPTIMIZE • EVOLVE
 
-<div align="center">
 
-
-### EXECUTING NEXT PHASE
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1E293B,100:7C3AED&height=90&section=footer&text=SYSTEM%20ONLINE&fontSize=22&fontColor=F8FAFC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:60A5FA,30:2563EB,60:1E3A8A,85:0F172A,100:020617&text=HUDSON%20INTERFACE%20•%20THANK%20YOU&fontSize=28&fontColor=F8FAFC&fontAlignY=68"/>
