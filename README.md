@@ -292,7 +292,7 @@ where data, logic, and design come together to create meaningful solutions.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/itsHudson/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
-
+###
 ###
 
 <picture>
@@ -301,7 +301,7 @@ where data, logic, and design come together to create meaningful solutions.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/itsHudson/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-
+###
 ###
 
 <picture>
@@ -310,6 +310,7 @@ where data, logic, and design come together to create meaningful solutions.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsHudson/itsHudson/pacman-output/breakout-contribution-graph.svg">
 </picture>
 
+###
 ###
 
 </div>
