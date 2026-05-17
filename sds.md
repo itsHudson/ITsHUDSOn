@@ -59,7 +59,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSharp.png" width="65"/><br>C++
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="65"/><br>C#
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSharp.png" width="65"/><br>C#
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="65"/><br>Assembly
