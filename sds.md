@@ -1,31 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:0F172A,75:1D4ED8,100:60A5FA&height=220&section=header&text=HUDSON&fontSize=58&fontColor=F8FAFC&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:000000,50:111827,100:1E3A8A&section=header&text=HUDSON&fontSize=60&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br><br>
 
 <h3>
-DATA ANALYTICS • SOFTWARE ENGINEERING • MACHINE LEARNING • SYSTEMS ARCHITECTURE
+DATA ANALYTICS • SOFTWARE ENGINEERING • MACHINE LEARNING
 </h3>
+
+<p>
+Building intelligent systems through data, engineering, and structured problem solving.
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=1000&color=93C5FD&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems;Transforming+Data+Into+Insights;Engineering+Solutions+That+Matter"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2500&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Build.+Optimize.+Scale.;Turning+Data+Into+Decision.;Engineering+With+Precision." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SPECIALIZATION-DATA%20ANALYTICS-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-7C3AED?style=for-the-badge"/>
-
-<br><br/>
-
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/HUDSON%20LAB-PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUDSON%20LAB-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hudson1413">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hudson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
