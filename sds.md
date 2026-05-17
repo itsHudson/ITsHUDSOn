@@ -1,18 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:000000,40:111827,75:1E293B,100:64748B&section=header&text=HUDSON%20INTERFACE&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=DATA%20SYSTEMS%20•%20PROBLEM%20SOLVING%20•%20INTELLIGENT%20AUTOMATION&descSize=14&descAlignY=60"/>
-
-<br><br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2200&pause=900&color=CBD5E1&center=true&vCenter=true&width=700&lines=Analyze.;Build.;Optimize.;Explore."/>
-
-<br><br>
-
-@@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,35:0F172A,70:1E293B,100:1E40AF&section=header&text=HUDSON%20INTERFACE&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=42&desc=DATA%20SYSTEMS%20•%20PROBLEM%20SOLVING%20•%20INTELLIGENT%20AUTOMATION&descSize=15&descAlignY=62"/>
 
 <br><br>
