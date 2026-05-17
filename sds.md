@@ -211,6 +211,6 @@ I enjoy turning ideas into scalable solutions across analytics, automation, mach
 
 ## BUILD • ANALYZE • OPTIMIZE • EVOLVE
 
-</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:000000&height=80&section=footer"/>
