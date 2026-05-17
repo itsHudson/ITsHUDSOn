@@ -1,138 +1,116 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Valerie Cheong</h1>
+<h3 align="center">Software Developer | QA Tester | Data & ML Enthusiast</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,40:f8fafc,70:e2e8f0,100:cbd5e1&text=Hudson&fontSize=82&fontColor=0f172a&fontAlignY=40&desc=Data%20Analytics%20%7C%20System%20Development%20%7C%20Digital%20Products&descSize=18&descAlignY=62"/>
-
-<br/>
-
-# Hudson
-
-### Building systems that are structured, scalable, and useful.
-
-I transform data into insights and ideas into functional products.
-
-<br/>
-
-<a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  Passionate about building systems, testing applications, and turning data into insights.
+</p>
 
 ---
 
-# About
+## 🚀 About Me
 
-I focus on building practical digital solutions through:
-
-- Data Analytics  
-- System Development  
-- Product Thinking  
-- UI/UX Improvement  
-- Problem Solving  
-
-I enjoy simplifying complexity and turning ideas into systems people can actually use.
+- 🎓 Computer Science / Software Engineering Student
+- 💼 Currently doing internship in Software Testing / QA
+- 🧪 Writing test cases & performing system validation
+- 💻 Building Java applications & system modules
+- 📊 Learning Data Analytics, Machine Learning & Visualization
+- 🌱 Continuously improving my technical skill stack
 
 ---
 
-# Built With
+## 💻 Software Development
 
-### Analytics
-
-Tools used to extract meaning from complexity.
-
-```text
-Python • R • SAS • SQL Server • MySQL
-```
-
----
-
-### Engineering
-
-Languages used to build scalable systems.
-
-```text
-Java • C# • C++ • C • Assembly
-```
+<p align="left">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Java.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Python.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C++.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C#.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_JavaScript.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_HTML5.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_CSS3.png" width="50"/>
+</p>
 
 ---
 
-### Web
+## 📊 Data / Analytics / ML
 
-Building interfaces and digital experiences.
-
-```text
-HTML • CSS • JavaScript • ASP.NET
-```
-
----
-
-### Workflow
-
-Tools that support execution and collaboration.
-
-```text
-Git • GitHub • Visual Studio • VS Code • NetBeans • CodeBlocks • Figma • Slack
-```
+<p align="left">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_R.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SAS.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_MySQL.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SQLServer.png" width="50"/>
+</p>
 
 ---
 
-### Platforms
+## 🛠 Tools & Platforms
 
-Operating environments I work with.
-
-```text
-Ubuntu • Rocky Linux
-```
-
----
-
-# Selected Work
-
-### NLP Resume Analyzer
-Built structured extraction workflows for unstructured resume data.
-
-### MyGoPandai Learning System
-Designed a scalable learning platform focused on usability and growth.
-
-### Analytics Development
-Created dashboards, reports, and business insights for better decision-making.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Git.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_GitHub.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Figma.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudio.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudioCode.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_ApacheNetbeans.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Ubuntu.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Slack.png" width="50"/>
+</p>
 
 ---
 
-# GitHub Insights
+## 🔥 Featured Projects
 
-<div align="center">
+### Medical Management System
+- Authentication system
+- Session handling
+- GUI redesign
+- File management
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=itsHudson&show_icons=true&hide_border=true&theme=default"
-width="48%"/>
+### Software Testing Internship
+- Test case creation
+- Bug validation
+- User story testing
+- System verification
 
-<img 
-src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=default"
-width="48%"/>
+### Machine Learning Knowledge Base
+- Supervised learning
+- Eda
+- Optimization
+- Deployment
+- Model evaluation
 
-<br/><br/>
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=ffffff&color=000000&line=64748b&point=94a3b8&hide_border=true"
-/>
-
-</div>
-
----
-
-# Philosophy
-
-```text
-Build with clarity.
-Design with intention.
-Scale with purpose.
-```
+### Python Knowledge Repository
+- Data structures
+- Algorithms
+- OOP
+- Security
+- Concurrency
 
 ---
 
-<div align="center">
+## 📈 GitHub Stats
 
-### Simplicity is the ultimate sophistication.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
+
+---
+
+⭐ Always learning. Always building. Always improving.
