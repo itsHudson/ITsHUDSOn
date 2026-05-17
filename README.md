@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## ABOUT ME
+# ABOUT ME
 
 Computer Science undergraduate specializing in **Data Analytics**, focused on building data-driven systems, exploring emerging technologies, and solving complex problems through structured thinking.
 
