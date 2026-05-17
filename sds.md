@@ -132,7 +132,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="65"/><br>CodeBlocks
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="65"/><br>Code::Blocks
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="65"/><br>Figma
