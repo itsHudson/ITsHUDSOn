@@ -1,79 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Chia%20Jin%20Hau%20(Hudson)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=CHIA%20JIN%20HAU%20(HUDSON)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Data+Analytics+Student;Software+Developer;Problem+Solver;Continuous+Learner)]()
+<br>
+
+<h3>
+DATA ANALYTICS STUDENT • SOFTWARE DEVELOPER • PROBLEM SOLVER
+</h3>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+## ABOUT ME
 
 Computer Science undergraduate specializing in **Data Analytics** with strong interests in software development, machine learning, automation, and process optimization.
 
-I enjoy building systems, analyzing data, and continuously learning technologies that solve real-world problems.
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<th>Programming</th>
-<th>Web Development</th>
-<th>Data & Analytics</th>
-<th>Tools & Platforms</th>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Java.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="45"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_HTML5.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSS3.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_JavaScript.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="45"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="45"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudio.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudioCode.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="45"/><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="45"/>
-
-</td>
-</tr>
-</table>
+Passionate about building systems, analyzing data, and creating solutions that deliver real value.
 
 </div>
 
@@ -81,7 +26,74 @@ I enjoy building systems, analyzing data, and continuously learning technologies
 
 <div align="center">
 
-### 🚀 Always Learning • Always Building • Always Improving
+# ⚡ TECH STACK
+
+</div>
+
+<table align="center">
+<tr>
+<th align="center">PROGRAMMING</th>
+<th align="center">WEB DEVELOPMENT</th>
+<th align="center">DATA & ANALYTICS</th>
+<th align="center">TOOLS & PLATFORMS</th>
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Java.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="60">
+
+</td>
+
+<td align="center" width="250">
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_HTML5.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSS3.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_JavaScript.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="60">
+
+</td>
+
+<td align="center" width="250">
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ThoughtSpot.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="60">
+
+</td>
+
+<td align="center" width="250">
+
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudio.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudioCode.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="60">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ALWAYS LEARNING • ALWAYS BUILDING • ALWAYS IMPROVING
 
 </div>
 
