@@ -30,9 +30,9 @@
 
 ## ABOUT ME
 
-Computer Science undergraduate specializing in **Data Analytics** with strong interests in software development, machine learning, automation, and process optimization.
+Computer Science undergraduate specializing in **Data Analytics**, focused on building data-driven systems, exploring emerging technologies, and solving complex problems through structured thinking.
 
-Passionate about building systems, analyzing data, and creating solutions that deliver real value.
+I enjoy turning ideas into scalable solutions across analytics, automation, machine learning, and system design.
 
 </div>
 
