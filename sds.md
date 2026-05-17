@@ -24,21 +24,6 @@ DATA ANALYTICS • SOFTWARE ENGINEERING • MACHINE LEARNING • SYSTEMS ARCHITE
 
 </div>
 
----
-
-<div align="center">
-
-## ABOUT ME
-
-Computer Science undergraduate specializing in **Data Analytics** with strong interests in software development, machine learning, automation, and process optimization.
-
-Passionate about building systems, analyzing data, and creating solutions that deliver real value.
-
-</div>
-
----
-
-<div align="center">
 
 ---
 
