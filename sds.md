@@ -20,91 +20,82 @@ I transform data into insights and ideas into functional products.
 
 ---
 
-## About
+# About
 
-I’m focused on building practical digital systems through a combination of:
+I focus on building practical digital solutions through:
 
 - Data Analytics  
-- Software Development  
-- System Architecture  
-- UI/UX Thinking  
-- Product Problem Solving  
+- System Development  
+- Product Thinking  
+- UI/UX Improvement  
+- Problem Solving  
 
-I enjoy turning complexity into clean solutions.
-
----
-
-# Technology Stack
-
-## Data & Analytics
-
-<p align="center">
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_MySQL.png" width="45"/>
-</p>
+I enjoy simplifying complexity and turning ideas into systems people can actually use.
 
 ---
 
-## Software Engineering
+# Built With
 
-<p align="center">
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#%23.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Java.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="45"/>
-</p>
+### Analytics
 
----
+Tools used to extract meaning from complexity.
 
-## Web Development
-
-<p align="center">
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="45"/>
-</p>
+```text
+Python • R • SAS • SQL Server • MySQL
+```
 
 ---
 
-## Tools & Platforms
+### Engineering
 
-<p align="center">
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudioCode.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ApacheNetbeans.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CodeBlock.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Figma.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Slack.png" width="45"/>
-</p>
+Languages used to build scalable systems.
+
+```text
+Java • C# • C++ • C • Assembly
+```
 
 ---
 
-## Operating Systems
+### Web
 
-<p align="center">
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Ubuntu.png" width="45"/>
-<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Rocky.png" width="45"/>
-</p>
+Building interfaces and digital experiences.
+
+```text
+HTML • CSS • JavaScript • ASP.NET
+```
 
 ---
 
-# Featured Projects
+### Workflow
+
+Tools that support execution and collaboration.
+
+```text
+Git • GitHub • Visual Studio • VS Code • NetBeans • CodeBlocks • Figma • Slack
+```
+
+---
+
+### Platforms
+
+Operating environments I work with.
+
+```text
+Ubuntu • Rocky Linux
+```
+
+---
+
+# Selected Work
 
 ### NLP Resume Analyzer
-Extracting structured insights from unstructured resume data.
+Built structured extraction workflows for unstructured resume data.
 
 ### MyGoPandai Learning System
-Building scalable education-focused platforms.
+Designed a scalable learning platform focused on usability and growth.
 
 ### Analytics Development
-Creating dashboards, reports, and business insights.
+Created dashboards, reports, and business insights for better decision-making.
 
 ---
 
@@ -127,6 +118,16 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg
 />
 
 </div>
+
+---
+
+# Philosophy
+
+```text
+Build with clarity.
+Design with intention.
+Scale with purpose.
+```
 
 ---
 
