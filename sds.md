@@ -1,30 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0F172A,55:1D4ED8,80:3B82F6,100:93C5FD&text=HUDSON%20INTERFACE&fontSize=58&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20•%20SOFTWARE%20ENGINEERING%20•%20SYSTEM%20ARCHITECTURE&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0F172A,45:1E3A8A,75:2563EB,100:60A5FA&text=HUDSON%20INTERFACE&fontSize=60&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20•%20SOFTWARE%20ENGINEERING%20•%20SYSTEM%20ARCHITECTURE&descSize=16&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2200&pause=900&color=BFDBFE&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Transforming+Data+Into+Insights;Designing+Structured+Solutions;Continuous+Learning+%7C+Continuous+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2500&pause=1000&color=BFDBFE&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Transforming+Data+Into+Strategic+Insights;Designing+Scalable+Digital+Solutions;Continuous+Learning+%7C+Continuous+Execution"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/SPECIALIZATION-DATA%20ANALYTICS-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-PROBLEM%20SOLVER-0F172A?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/PORTFOLIO-HUDSON%20LAB-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUDSON%20LAB-PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/hudson1413">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
