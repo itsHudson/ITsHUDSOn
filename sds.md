@@ -62,3 +62,88 @@ Passionate about data analytics, software development, and building systems that
 <p align="center">
 📊 Data Analytics | 💻 Software Development | 🚀 Continuous Learning
 </p>
+
+
+
+## ⚡ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Python.png" width="50"/><br>Python
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Java.png" width="50"/><br>Java
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C.png" width="50"/><br>C
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_C++.png" width="50"/><br>C++
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_MySQL.png" width="50"/><br>MySQL
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SQLServer.png" width="50"/><br>SQL Server
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_R.png" width="50"/><br>R
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_SAS.png" width="50"/><br>SAS
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Git.png" width="50"/><br>Git
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_GitHub.png" width="50"/><br>GitHub
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_VisualStudioCode.png" width="50"/><br>VS Code
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/itsHudson/hudsonlab/main/Images/TE_Figma.png" width="50"/><br>Figma
+
+</td>
+</tr>
+</table>
+
