@@ -1,19 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,40:f8fafc,70:e2e8f0,100:cbd5e1&text=Hudson&fontSize=80&fontColor=0f172a&fontAlignY=40&desc=Building%20systems%20that%20make%20sense.&descSize=18&descAlignY=62"/>
-
-<br/><br/>
-
-# Hudson
-
-### Data Analytics • System Development • Product Thinking
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,40:f8fafc,70:e2e8f0,100:cbd5e1&text=Hudson&fontSize=82&fontColor=0f172a&fontAlignY=40&desc=Data%20Analytics%20%7C%20System%20Development%20%7C%20Digital%20Products&descSize=18&descAlignY=62"/>
 
 <br/>
 
-I design systems, analyze data, and build digital products  
-with a focus on clarity, structure, and real-world usability.
+# Hudson
 
-<br/><br/>
+### Building systems that are structured, scalable, and useful.
+
+I transform data into insights and ideas into functional products.
+
+<br/>
 
 <a href="https://itshudson.github.io/hudsonlab/">
 <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -23,43 +20,95 @@ with a focus on clarity, structure, and real-world usability.
 
 ---
 
-## Selected Work
+## About
 
-### NLP Resume Analyzer
-Built structured extraction workflows for unstructured resume data.
+I’m focused on building practical digital systems through a combination of:
 
-### MyGoPandai
-Designed a scalable education platform focused on learning efficiency.
+- Data Analytics  
+- Software Development  
+- System Architecture  
+- UI/UX Thinking  
+- Product Problem Solving  
 
-### Analytics Projects
-Built dashboards, analyzed datasets, and transformed business data into insights.
-
----
-
-## Capabilities
-
-```text
-Data Analytics
-Machine Learning
-System Development
-UI/UX Thinking
-Database Design
-Problem Solving
-```
+I enjoy turning complexity into clean solutions.
 
 ---
 
-## Tech Stack
+# Technology Stack
+
+## Data & Analytics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,java,cs,cpp,javascript,html,css,git,github,vscode,figma"/>
-
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Python.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_R.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SAS.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_SQLServer.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_MySQL.png" width="45"/>
 </p>
 
 ---
 
-## GitHub
+## Software Engineering
+
+<p align="center">
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C++.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_C#%23.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Java.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Assembly.png" width="45"/>
+</p>
+
+---
+
+## Web Development
+
+<p align="center">
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_HTML5.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CSS3.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_JavaScript.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ASP.NET.png" width="45"/>
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="center">
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Git.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_GitHub.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudio.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_VisualStudioCode.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_ApacheNetbeans.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_CodeBlock.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Figma.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Slack.png" width="45"/>
+</p>
+
+---
+
+## Operating Systems
+
+<p align="center">
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Ubuntu.png" width="45"/>
+<img src="https://github.com/itsHudson/hudsonlab/blob/main/Images/TE_Rocky.png" width="45"/>
+</p>
+
+---
+
+# Featured Projects
+
+### NLP Resume Analyzer
+Extracting structured insights from unstructured resume data.
+
+### MyGoPandai Learning System
+Building scalable education-focused platforms.
+
+### Analytics Development
+Creating dashboards, reports, and business insights.
+
+---
+
+# GitHub Insights
 
 <div align="center">
 
@@ -71,12 +120,18 @@ width="48%"/>
 src="https://streak-stats.demolab.com?user=itsHudson&hide_border=true&theme=default"
 width="48%"/>
 
+<br/><br/>
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=itsHudson&bg_color=ffffff&color=000000&line=64748b&point=94a3b8&hide_border=true"
+/>
+
 </div>
 
 ---
 
 <div align="center">
 
-### Build thoughtfully. Scale intentionally.
+### Simplicity is the ultimate sophistication.
 
 </div>
