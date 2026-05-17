@@ -30,64 +30,59 @@ Passionate about building systems, analyzing data, and creating solutions that d
 
 </div>
 
-<table align="center">
-<tr>
-<th align="center">PROGRAMMING</th>
-<th align="center">WEB DEVELOPMENT</th>
-<th align="center">DATA & ANALYTICS</th>
-<th align="center">TOOLS & PLATFORMS</th>
-</tr>
+<br>
 
-<tr>
+## PROGRAMMING
 
-<td align="center" width="250">
+<p align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Java.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="70"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Python.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Java.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="60">
+---
 
-</td>
+## WEB DEVELOPMENT
 
-<td align="center" width="250">
+<p align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_HTML5.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSS3.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_JavaScript.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="70"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_HTML5.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSS3.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_JavaScript.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="60">
+---
 
-</td>
+## DATA & ANALYTICS
 
-<td align="center" width="250">
+<p align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ThoughtSpot.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="70"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_MySQL.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SQLServer.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_R.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_SAS.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ThoughtSpot.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_BigQuery.png" width="60">
+---
 
-</td>
+## TOOLS & PLATFORMS
 
-<td align="center" width="250">
-
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudio.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudioCode.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="60"><br><br>
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="60">
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Git.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_GitHub.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudio.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_VisualStudioCode.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ApacheNetbeans.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CodeBlock.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="70"/>
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="70"/>
+</p>
 
 ---
 
