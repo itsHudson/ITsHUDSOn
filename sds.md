@@ -30,10 +30,11 @@ Passionate about building systems, analyzing data, and creating solutions that d
 
 <table>
 <tr>
-<th width="25%">PROGRAMMING</th>
-<th width="25%">WEB DEVELOPMENT</th>
-<th width="25%">DATA & ANALYTICS</th>
-<th width="25%">TOOLS & PLATFORMS</th>
+<th width="20%">PROGRAMMING</th>
+<th width="20%">WEB DEVELOPMENT</th>
+<th width="20%">DATA & ANALYTICS</th>
+<th width="20%">DEV TOOLS</th>
+<th width="20%">OPERATING SYSTEMS</th>
 </tr>
 
 <tr>
@@ -56,19 +57,13 @@ Passionate about building systems, analyzing data, and creating solutions that d
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSharp.png" width="65"/><br>C++
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C++.png" width="65"/><br>C++
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_CSharp.png" width="65"/><br>C#
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_C#.png" width="65"/><br>C#
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Assembly.png" width="65"/><br>Assembly
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_ASP.NET.png" width="65"/><br>.NET
 </td>
 </tr>
 </table>
@@ -131,7 +126,7 @@ Passionate about building systems, analyzing data, and creating solutions that d
 
 </td>
 
-<!-- TOOLS -->
+<!-- DEV TOOLS -->
 <td align="center" valign="top">
 
 <table>
@@ -164,16 +159,24 @@ Passionate about building systems, analyzing data, and creating solutions that d
 <img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Figma.png" width="65"/><br>Figma
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="65"/><br>Ubuntu
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="65"/><br>Rocky Linux
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="65"/><br>Slack
 </td>
 </tr>
+</table>
 
+</td>
+
+<!-- OPERATING SYSTEMS -->
+<td align="center" valign="top">
+
+<table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Slack.png" width="65"/><br>Slack
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Ubuntu.png" width="65"/><br>Ubuntu
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/itsHudson/ITsHUDSOn/main/image/TE_Rocky.png" width="65"/><br>Rocky Linux
 </td>
 </tr>
 </table>
