@@ -1,29 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:000000,50:111827,100:1E3A8A&section=header&text=HUDSON&fontSize=60&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,35:0F172A,70:1E293B,100:1E40AF&section=header&text=HUDSON%20INTERFACE&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=42&desc=DATA%20SYSTEMS%20•%20SOFTWARE%20ENGINEERING%20•%20INTELLIGENT%20AUTOMATION&descSize=15&descAlignY=62"/>
 
 <br><br>
 
-<h3>
-DATA ANALYTICS • SOFTWARE ENGINEERING • MACHINE LEARNING
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2400&pause=900&color=CBD5E1&center=true&vCenter=true&width=850&lines=Building+Scalable+Digital+Systems;Transforming+Data+Into+Business+Intelligence;Engineering+Solutions+With+Precision"/>
 
-<p>
-Building intelligent systems through data, engineering, and structured problem solving.
-</p>
+<br><br>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2500&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Build.+Optimize.+Scale.;Turning+Data+Into+Decision.;Engineering+With+Precision." />
+<img src="https://img.shields.io/badge/SPECIALIZATION-DATA%20ANALYTICS-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-1E40AF?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://itshudson.github.io/hudsonlab/">
-<img src="https://img.shields.io/badge/HUDSON%20LAB-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUDSON%20LAB-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hudson1413">
-<img src="https://img.shields.io/badge/LinkedIn-Hudson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
